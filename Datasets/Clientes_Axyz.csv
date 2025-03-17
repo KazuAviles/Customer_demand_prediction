@@ -1,0 +1,838 @@
+fecha_registro,estado,nombre_completo,genero,canal _contacto,Comuna,Region,telefono,Email,Destino
+2022,No Contratado,Diego Cadena,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2022,No Contratado,Carolina Verdugo,Femenino,Google,SR,Sin Informacion,,SR,Por Definir
+2022,No Contratado,Daniel Adriazola,Femenino,Google,SR,Sin Informacion,,SR,Por Definir
+2022,No Contratado,Katherine Zapata,Femenino,Google,SR,Sin Informacion,,SR,Por Definir
+2022,Contratado,Erica Villalobos,Femenino,Google,SR,Sin Informacion,966201698,erickavillalobos1969@gmail.com,Vivienda
+2022,No Contratado,Andres Araneda,Masculino,Google,Nunoa,Region Metropolitana,988428704,andresaranedal@hotmail.com,Vivienda
+2022,No Contratado,Catalina Cortes,Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Andrea Mejias,Femenino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Claudio Cartagena,Masculino,Google,Vina del Mar,Region Valparaiso,982573612,chCartagena@hotmail.com,Vivienda
+2022,No Contratado,Pedro Briell,Masculino,Google,SR,Sin Informacion,,SR,Comercio
+2022,No Contratado,Alejandra ,Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Milciates Castro,Masculino,Google,Paine,Region Metropolitana,991594506,milciadescastroponce@gmail.com,Vivienda
+2022,Contratado,Ignacio Gonzalez,Masculino,Google,Providencia,Region Metropolitana,936622925,ignacio.gd@gmail.com,Comercio
+2022,No Contratado,Yerko Caro,Masculino,Google,SR,Sin Informacion,,SR,Comercio
+2022,No Contratado,Margarita Villaroel,Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Cecilia Herrera,Femenino,Google,Los Andes,Region Valparaiso,962746876,ceciliaangelicaherreraespinoza@gmail.com,Vivienda
+2022,No Contratado,Maria Oyarzun,Femenino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Adolfo Miño,Masculino,Google,SR,Sin Informacion,,SR,Comercio
+2022,No Contratado,Vicente,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2022,Contratado,Amilkar Castelleto,Masculino,Google,Pudahuel,Region Metropolitana,972964289,Gerencia@topk9.cl,Comercio
+2022,No Contratado,Adrian Silva,Masculino,Google,SR,Sin Informacion,,SR,Comercio
+2022,No Contratado,Jennifer Galvez,Femenino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Luis Felipe Farias,Femenino,Google,Peralillo,Region del Libertador Bernardo O'Higgins,934627274,felipe.farias.albo@gmail.com,Vivienda
+2022,No Contratado,Arturo Unda,Masculino,Google,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Monica Ortega,Femenino,Google,SR,Sin Informacion,,SR,Comercio
+2022,No Contratado,Edo Saint,Masculino,Google,Estacion Central,Region Metropolitana,991646565,SR,Vivienda
+2022,No Contratado,,Otro,Google,Santiago,Region Metropolitana,965943081,consuelo.olympe@gmail.com,Comercio
+2022,No Contratado,Linda Zarate,Femenino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Claudia Gutierrez,Femenino,Google,SR,Sin Informacion,950667197,claudiaestefaniagutierrezjorqq@gmail.com,Vivienda
+2022,No Contratado,Victor Soriano,Masculino,Google,Santiago,Region Metropolitana,936347594,vh.soriano.v@gmail.com,Comercio
+2022,No Contratado,Tatiana Recasens,Femenino,Google,SR,Sin Informacion,,tatianarecasens@gmail.com,Vivienda
+2022,No Contratado,Claudio Cortes,Masculino,Google,La Reina,Region Metropolitana,982073781,proyectos@karubag.cl,Vivienda
+2022,No Contratado,Aaron Martinez,Masculino,Google,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Linda Zarate,Femenino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Paul Rojas,Masculino,Google,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Victoria Sepulveda,Femenino,Google,Cerro Navia,Region Metropolitana,940234016,vict.amalia88@gmail.con,Comercio
+2022,No Contratado,Ana Maria Pichun,Femenino,Google,La Pintana,Region Metropolitana,975529702,anamaria.ejecutiva@gmail.com,Vivienda
+2022,Contratado,Luis Powell,Masculino,Google,Santiago,Region Metropolitana,992376219,Luispowell@brimax.cl,Comercio
+2022,No Contratado,Denise Oyarzun,Femenino,Google,SR,Sin Informacion,,SR,Comercio
+2022,Contratado,Kathy Alvarez,Femenino,Google,Curico,Region del Maule,985614148,katerin1002@gmail.com,Vivienda
+2022,No Contratado,Maria Vega,Femenino,Google,SR,Sin Informacion,942948649,SR,Vivienda
+2022,No Contratado,Lexander Rosales,Masculino,Google,SR,Sin Informacion,995193072,rosaleslexander@outlook.com,Comercio
+2022,Contratado,Araceli Acevedo,Femenino,Google,San Bernardo,Region Metropolitana,932926547,araceli.acevedocaro@gmail.com,Comercio
+2022,No Contratado,Paulo Catalan,Masculino,Google,Las Condes,Region Metropolitana,953220313,Pauloacm2710@gmail.com,Vivienda
+2022,No Contratado,Maria Fernaldt,Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Jorge Zambrano,Masculino,Google,Conchali,Region Metropolitana,944216531,jorzambrano.m@gmail.com,Vivienda
+2022,No Contratado,Elizbelis Caraballo,Femenino,Google,Santiago,Region Metropolitana,9 9537 4231,elizbelis@hotmail.com,Comercio
+2022,No Contratado,Madeleine Preciado,Femenino,Google,SR,Sin Informacion,,SR,Por Definir
+2022,No Contratado,Papa Leiva,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2022,No Contratado,Daniel Nuñez,Masculino,Google,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Claudio Lopez,Masculino,Google,SR,Sin Informacion,932254107,SR,Vivienda
+2022,No Contratado,Miguel Ibañez,Masculino,Google,Curepto ,Region del Maule,984279645,mariad.reyes@hotmail.com,Otro 
+2022,No Contratado,Pedro Sagredo,Masculino,Google,Estacion central,Region Metropolitana,940727070,pdavid.sagredo@gmail.com,Vivienda
+2022,Contratado,Matias Salinas,Masculino,Embajador,Padre Hurtado,Region Metropolitana,961722793,msb.icom05@gmail.com,Vivienda
+2022,No Contratado,Camila Parra,Femenino,Embajador,SR,Sin Informacion,,SR,Por Definir
+2022,Contratado,Felipe Quintanilla,Masculino,Google,Providencia,Region Metropolitana,9 6616 877,Contacto@ginebramultiservicios.cl,Comercio
+2022,No Contratado,Marcia Espinoza,Femenino,Google,Penablanca,Region Valparaiso,9 3378 8078,m.espinoza.belmar@gmail.com,Vivienda
+2022,No Contratado,Ricardo Belaunde,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2022,No Contratado,Carlos Arcos,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2022,No Contratado,Maria Mendoza,Femenino,Google,SR,Sin Informacion,,SR,Por Definir
+2022,No Contratado,Erna Araya,Femenino,Google,SR,Sin Informacion,,SR,Por Definir
+2022,No Contratado,Hector Ahumada,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2022,No Contratado,Leonardo Plaza,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2022,Contratado,Cristian Ramirez,Masculino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,David Waddington,Masculino,Google,SR,Sin Informacion,,SR,Comercio
+2022,No Contratado,Marianela Arriagada,Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Rodrigo Mora,Masculino,Google,SR,Sin Informacion,944043297,SR,Comercio
+2022,No Contratado,Marco Romero,Masculino,Google,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Veronica Ferrada,Femenino,Google,SR,Sin Informacion,,SR,Comercio
+2022,No Contratado,Felipe Diaz,Masculino,Google,SR,Sin Informacion,,SR,Otro 
+2022,No Contratado,Victor Briceño,Masculino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2022,Contratado,Felipe Parada,Masculino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2022,Contratado,Manuel Yañez,Masculino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Paola Rodriguez,Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Juan Pablo Gutierrez,Masculino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Sandra Manzano,Femenino,Google,Puente alto,Region Metropolitana,959629821,SR,Por Definir
+2022,No Contratado,Carlos Correa,Masculino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2022,Contratado,Ricardo Espinoza,Masculino,Google,San Bernardo,Region Metropolitana,975880729,ricardoespinoza.ab@gmail.com,Por Definir
+2022,No Contratado,Veronica Maturana,Femenino,Google,SR,Sin Informacion,972513872,SR,Por Definir
+2022,Contratado,Camila Parra,Femenino,Embajador,SR,Sin Informacion,993336354,SR,Por Definir
+2022,No Contratado,Otilia Avila,Femenino,Google,SR,Sin Informacion,996622801,SR,Vivienda
+2022,No Contratado,Patricio Tejo,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2022,No Contratado,Jaime Lira,Masculino,Google,SR,Sin Informacion,981378706,SR,Por Definir
+2022,No Contratado,Cirilo Ortiz,Masculino,Embajador,SR,Sin Informacion,,SR,Comercio
+2022,No Contratado,Marta Ranaval (Silvia),Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Edgardo Avello,Masculino,Google,SR,Sin Informacion,921695296,SR,Por Definir
+2022,No Contratado,Beatriz Gutierrez,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2022,No Contratado,Muriel Aranda Castro,Femenino,Google,SR,Sin Informacion,953456671,SR,Comercio
+2022,No Contratado,Donato,Masculino,Google,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Fanny Rubiano,Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Alicia Mora,Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2022,No Contratado,Amilkar Castelleto,Masculino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Carlos Vergara Brown,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Camila Parra,Femenino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Nestor Saez,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Rodrigo Arbea,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Jaime Hoyos,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Carlos Camacho,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Ernestina Rojas,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Brenda Bolvaran,Femenino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Manuela Marin,Femenino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Sixto Armijo,Masculino,Google,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Mauricio Flores,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Sara Moris,Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Alicia Estacion,Femenino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Carlos Palmar,Masculino,Google,SR,Sin Informacion,,SR,Comercio
+2023,No Contratado,Pablo Mellado,Masculino,Google,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Norma Sepulveda,Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Camilo Carcamo,Masculino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Patricio Aballay,Masculino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Carolina Llabres,Femenino,Google,SR,Sin Informacion,,SR,Otro 
+2023,No Contratado,Maria Espindola,Femenino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Mauricio Mejias,Masculino,Google,SR,Sin Informacion,,mauricio.mejias.m@gmail.com,Por Definir
+2023,No Contratado,Teresa Benussi,Femenino,Google,SR,Sin Informacion,,TERESABENUSSI21@GMAIL.COM,Por Definir
+2023,Contratado,Daniela Martinez,Femenino,Embajador,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Miguel Belmar,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Alejandro Avendaño,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,Contratado,Fabian Rojas,Masculino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Alejandro Alegria,Masculino,Google,SR,Sin Informacion,,SR,Comercio
+2023,No Contratado,Daniel Valdes,Masculino,Google,SR,Sin Informacion,,SR,Comercio
+2023,No Contratado,Hector Rodriguez,Masculino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Olga Salazar,Femenino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Julio Arancibia,Masculino,Google,SR,Sin Informacion,,SR,Vivienda
+2023,Contratado,Zijing Huang,Femenino,Google,Pudahuel,Region Metropolitana,,ZIJING.HUANG14@GMAIL .COM,Comercio
+2023,No Contratado,Mauricio Hernandez,Masculino,Google,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Maria Alcaide,Femenino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2023,Contratado,Amilkar Castelleto,Masculino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Linda Zarate,Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Nicolas Gomez,Masculino,Google,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Daniella Forlivesi,Femenino,Embajador,SR,Sin Informacion,,SR,Comercio
+2023,Contratado,Nohely,Femenino,Google,SR,Sin Informacion,,SR,Educacion
+2023,No Contratado,Magaly Quezada,Femenino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Elsa Matthies,Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Camila Campino,Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Erica Valdivia,Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Jorge Taiba,Masculino,Google,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Lorena Salinas,Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Hugo Zapata,Masculino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2023,Contratado,Rosa Sanhueza,Femenino,Embajador,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Francisco Venegas,Masculino,Google,SR,Sin Informacion,,SR,Comercio
+2023,No Contratado,Pilar,Femenino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Patricio Basaletti,Femenino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Cinthia Osinaga,Femenino,Google,SR,Sin Informacion,45057,SR,Vivienda
+2023,No Contratado,Norma Soliz,Femenino,Google,SR,Sin Informacion,990721335,SR,Por Definir
+2023,No Contratado,Felix Rojas Carbacho,Masculino,Google,SR,Sin Informacion,987954154,FELIX_ANDRES33@HOTMAIL.COM,Vivienda
+2023,No Contratado,Carlos Buquillar,Masculino,Google,Padre Hurtado,Region Metropolitana,223029440 FIJO,CBUQUILLAR@GMAIL.COM,Vivienda
+2023,No Contratado,Juana Eusevio,Femenino,Google,Lo Prado,Region Metropolitana,971983265,JUANAIRIS@GMAIL.COM,Vivienda
+2023,Contratado,Yovana Navarro / Rodrigo Catalan,Femenino,Google,Renca,Region Metropolitana,977903629,YOVANAXIMENA@GMAIL.COM,Comercio
+2023,No Contratado,Marcos Palacios,Masculino,Embajador,La Ligua,Region Valparaiso,987086143,MARCOANTONIOPALACIOARAYA@GMAIL.COM,Comercio
+2023,No Contratado,Luis Nerunao,Masculino,Google,Huechuraba,Region Metropolitana,NO SABE NUME,LUIS.NERUNAO2023@HOTMAIL.COM,Vivienda
+2023,Contratado,Katherinne Zuñiga,Femenino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Luis Leon Cocha,Masculino,Google,Puente alto,Region Metropolitana,971064654,LUISALBERTOLEONCONCHA850@GMAIL.COM,Vivienda
+2023,No Contratado,Oscar Tapia,Masculino,Google,Santiago,Region Metropolitana,926317275,TAPIAOSCAR@GMAIL.COM,Comercio
+2023,No Contratado,Fabian Neira ,Masculino,Google,Rancagua,Region del Libertador Bernardo O'Higgins,944882297,SR,Vivienda
+2023,No Contratado,Salvador Sepulveda ,Masculino,Google,Parral,Region del Maule,972502300,SR,Comercio
+2023,No Contratado,Carmen Lobos,Femenino,Google,Rancagua,Region del Libertador Bernardo O'Higgins,979783419,SR,Vivienda
+"2023,No Contratado,Ximena Dinamarca,Femenino,Google,Longavi,Region del Maule,933984072,""MARIAXIMENA.DINA-TELLO@GMAIL,COM"",Vivienda"
+2023,No Contratado,Maria Medina Astorga,Femenino,Google,Villa Alegre,Region del Maule,937797290,SR,Vivienda
+2023,Contratado,Carlos Perez ,Femenino,Google,Penalolen,Region Metropolitana,998487662,PEREZWRITE@HOTMAIL.COM,Vivienda
+2023,No Contratado,Elizabeth Flores,Femenino,Embajador,Huelpen,Region Bio-Bio,96354535,SR,Vivienda
+2023,No Contratado,Sandra Galvan,Femenino,Google,Las Condes,Region Metropolitana,998795242,SR,Comercio
+2023,No Contratado,Raul Carrasco,Masculino,Google,San Miguel,Region Metropolitana,988072501,CARRASCORAUL@GMAIL.COM,Vivienda
+2023,No Contratado,Maria Cid,Femenino,Google,San fernando,Region del Libertador Bernardo O'Higgins,94686809,MARIACID72@GMAIL.COM,Vivienda
+2023,No Contratado,Oscar Olivarez,Masculino,Google,Maipu,Region Metropolitana,985935097,SR,Vivienda
+2023,No Contratado,Cesar  Bustamante,Masculino,Google,Penaflor,Region Metropolitana,9.94386382,BUSTAMANTE.EDIFICIOS@GMAIL.COM,Vivienda
+2023,No Contratado,Camilo Bravo,Masculino,Google,La Serena,Region Coquimbo,996702139,CAMILO.BRAVO426@GMAIL.COM,Vivienda
+2023,No Contratado,Thiare Cifuentes,Femenino,Google,Cerro Navia,Region Metropolitana,991246092,THIAREALEXSANDRA77@GMAIL.COM,Vivienda
+2023,No Contratado,Ernesto Vasquez,Masculino,Embajador,El Quisco,Region Valparaiso,950106528,SR,Vivienda
+2023,No Contratado,Elias Oliveros,Masculino,Embajador,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Fabian Leiva,Masculino,Embajador,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Taryn Dee,Masculino,Google,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Carlos Tabilo,Masculino,Google,San Bernardo,Region Metropolitana,979347048,CARLOSTABILO74@GMAIL.COM,Comercio
+2023,No Contratado,Roberto Vergara,Masculino,Google,San Bernardo,Region Metropolitana,989477509,ROBERTOJ_VERGARA@HOTMAIL.COM,Vivienda
+2023,No Contratado,Msilvagutierrez28@Gmail.Com,Masculino,Google,Rancagua,Region del Libertador Bernardo O'Higgins,972807273,MSILVAGUTIERREZ28@GMAIL.COM,Comercio
+2023,No Contratado,,Otro,Google,Puerto Montt,Region de Los Lagos,954753045,SR,Vivienda
+2023,No Contratado,Claudio Bravo,Masculino,Google,Talca,Region del Maule,953705201,CLAUDIOBRAVOROJAS1988@GMAIL.COM,Vivienda
+2023,No Contratado,Claudio Valdivia,Masculino,Google,Quilpue,Region Valparaiso,988467086,CVALDIVIA@COSEMAR.CL,Vivienda
+2023,No Contratado,Hector Campillay,Masculino,Google,Antofagasta,Region de Antofagasta,999508567,HECTORCAMPILLAY001@GMAIL.COM,Vivienda
+2023,No Contratado,Juan Pinto,Masculino,Google,La Florida,Region Metropolitana,990933655,JPCROSS@GMAIL.COM,Por Definir
+2023,No Contratado,Berta Muñoz Tapia,Femenino,Google,Lampa,Region Metropolitana,979304724,BERTA.MT.2020@GMAIL.COM,Vivienda
+2023,No Contratado,Daniela Arriagada,Femenino,Google,Providencia,Region Metropolitana,937094624,FABIANMONTENEGROM87@GMAIL.COM,Comercio
+2023,No Contratado,Exequiel Aravena,Masculino,Google,Melipilla,Region Metropolitana,988955907,SR,Vivienda
+2023,No Contratado,Alejandra Gonzalez,Femenino,Google,Las Condes,Region Metropolitana,999499160,EMPGONZAL@HOTMAIL.COM,Vivienda
+2023,No Contratado,Marcelo Calderon,Masculino,Google,La Pintana,Region Metropolitana,935664831,CALDERONVALDEVENITOM@GMAIL.COM,Vivienda
+2023,No Contratado,Maria Del Pilar,Femenino,Google,Nunoa,Region Metropolitana,959261971,|MDP_7106@HOTMAIL.COM,Comercio
+2023,No Contratado,Pedro Castro,Masculino,Google,Puente alto,Region Metropolitana,967680573,PEDROSLOSCASTRO@GMAIL.COM,Vivienda
+2023,No Contratado,Julia Zuñiga,Femenino,Google,Cauquenes,Region del Maule,966398324,JULIAZUÑIGA18@GMAIL.COM,Vivienda
+2023,No Contratado,Luis Torre,Masculino,Google,La Florida,Region Metropolitana,923885133,SR,Vivienda
+2023,No Contratado,Rosa Valenzuela,Femenino,Google,Calera de Tango,Region Metropolitana,-990224615,ROSAVALEN50@GMAIL.COM,Vivienda
+2023,No Contratado,Rafael Aranguiz,Masculino,Google,Quilpue,Region Valparaiso,988060071,SR,Vivienda
+2023,No Contratado,Mario Sepulveda,Masculino,Google,Litueche,Region del Libertador Bernardo O'Higgins,993153417,jonathanautos3.0@gmail.com,Vivienda
+2023,No Contratado,Cesar Emilio,Masculino,Google,La Serena,Region Coquimbo,940170123,CESAREMILIO.97@ICLUODE.COM,Vivienda
+2023,No Contratado,Carmen Romero,Femenino,Google,Quinta Normal,Region Metropolitana,972770141,CARROMEVERA@GMAIL.COM,Vivienda
+2023,No Contratado,Carlos Martinez ,Masculino,Google,Cerro Navia,Region Metropolitana,957198059,HIDRMAR.FJC@GMAIL.COM,Vivienda
+2023,No Contratado,Juana Gonzalez,Femenino,Google,Machali,Region del Libertador Bernardo O'Higgins,972929710,SR,Vivienda
+2023,No Contratado,Chaniel Francois,Masculino,Google,Lo Espejo,Region Metropolitana,935826716,CHANIELFRANCOIS49@GMAIL.COM,Vivienda
+2023,No Contratado,Sergio Valenzuela,Masculino,Google,La Reina,Region Metropolitana,985951524,SVZAMBOM@GMAIL.COM,Vivienda
+2023,Contratado,Moroni,Femenino,Embajador,Llanquihue ,Region de Los Lagos,,SR,Por Definir
+2023,No Contratado,Esteban Espinoza,Masculino,Google,Rengo,Region del Libertador Bernardo O'Higgins,965910303,ESTEBANESPINOZA035@GMAIL.COM,Vivienda
+2023,No Contratado,Hector Lara,Masculino,Embajador,Pudahuel,Region Metropolitana,942323631,Hector.Lara.sepulveda@gmail.com,Vivienda
+2023,Contratado,Humberto Copa,Femenino,Embajador,Arica,Region Arica y Parinacota,,copah934@gmail.com,Vivienda
+2023,No Contratado,Abelina Diaz,Femenino,Google,Talca,Region del Maule,991256741,ABELINADIAZ@HOTMAIL.COM,Vivienda
+2023,No Contratado,Edwin Siñiga,Masculino,Google,Recoleta,Region Valparaiso,969193794,EASINIGA@GMAIL.COM,Vivienda
+2023,No Contratado,Rodrigo Estay,Masculino,Google,Cabildo,Region Valparaiso,965894464,ESTAY2615@GMAIL.COM,Vivienda
+2023,No Contratado,Teresa Riqulme,Femenino,Google,Maipu,Region Metropolitana,998342213,TERESARIQUELME.BRAVO@GMAIL.COM,Vivienda
+2023,No Contratado,Rodrigo Oliva,Masculino,Google,Quilicura,Region Metropolitana,952003814,RONNY.OLIVAG@GMAIL.COM,Comercio
+2023,No Contratado,Felipe Parada,Masculino,Embajador,Arica,Region Arica y Parinacota,,SR,Por Definir
+2023,No Contratado,Cesar Gufane,Masculino,Google,Calera de Tango,Region Metropolitana,932361941,CF.BCFN@GMAIL.COM,Vivienda
+2023,No Contratado,Ximena Figueroa,Femenino,Google,El Bosque,Region Metropolitana,961489599,MENAFIGUEROA2712@GMAIL.COM,Vivienda
+2023,No Contratado,Gloria Torres,Femenino,Google,Rengo,Region del Libertador Bernardo O'Higgins,996159737,SR,Vivienda
+2023,No Contratado,Evelyn Saavedra,Femenino,Google,San Felipe,Region Valparaiso,942432494,SAAVEDRAEVELYN.91@GMAIL.COM,Comercio
+2023,No Contratado,Pablo Ampavy,Masculino,Embajador,El Quisco,Region Valparaiso,,SR,Por Definir
+2023,No Contratado,Danilo Escanilla (Gianlukas Sartorello),Masculino,Google,Las Condes,Region Metropolitana,952632857,DANILOESCANILLA@HOTMAIL.COM,Comercio
+2023,No Contratado,Pablo Cepeda (Ximena Rivera),Masculino,Google,Villa Alemana,Region Valparaiso,969009560,PCEPEDARIVERA@GMAIL.COM,Vivienda
+2023,No Contratado,Anita Del Canto,Femenino,Google,Las Condes,Region Metropolitana,995324444,ANITADELCANTO12@GMAIL.COM,Vivienda
+2023,No Contratado,Carmen Chepo,Femenino,Google,Puente alto,Region Metropolitana,958864682,SR,Vivienda
+2023,No Contratado,Jonathan Morillo,Masculino,Embajador,Quilicura,Region Metropolitana,,SR,Por Definir
+2023,No Contratado,Elizabeth Perez,Femenino,Google,La Florida,Region Metropolitana,975902465,SR,Vivienda
+2023,No Contratado,Teodoro Bannura,Femenino,Google,Rancagua,Region del Libertador Bernardo O'Higgins,990609685,TEODOROBANNURA@GMAIL.COM,Vivienda
+2023,No Contratado,Elizabeth Perez,Femenino,Google,La Florida,Region Metropolitana,975902465,AMARISPALOMA21@GMAIL.COM,Vivienda
+2023,No Contratado,Francisca Labra,Femenino,Embajador,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Guillermo Champin,Masculino,Google,El Tabo,Region Valparaiso,993307438,WCHARME@HOTMAIL.COM,Vivienda
+2023,No Contratado,Guilfrido Zapata,Masculino,Google,Colina,Region Metropolitana,971658427,ZAPATAGUILFRIDO38@GMAIL.COM,Vivienda
+2023,No Contratado,Frnklin Vadivia,Masculino,Google,Maipu,Region Metropolitana,989058190,SR,Vivienda
+2023,No Contratado,Ewans Cantillana,Masculino,Google,San Bernardo,Region Metropolitana,977477169,EWANSCANTILLANA@GMAIL.COM,Vivienda
+2023,No Contratado,Juan Leiva,Masculino,Google,Calama,Region de Antofagasta,977431619,JWLEIVA@VTR.CL,Vivienda
+2023,No Contratado,Graciela Mancilla,Femenino,Google,Rancagua,Region del Libertador Bernardo O'Higgins,957687351,SR,Comercio
+2023,Contratado,Harol Gallegos,Femenino,Google,Las Condes,Region Metropolitana,979782318,HGALLEGO@GMAIL.COM,Comercio
+2023,No Contratado,Fanny Rojas,Femenino,Embajador,San Bernardo,Region Metropolitana,932556039,SR,Comercio
+2023,No Contratado,Sebastian Silva,Masculino,Google,Pudahuel,Region Metropolitana,,ssilva.negocios@gmail.com ,Vivienda
+2023,No Contratado,Ronald Cerda,Masculino,Embajador,La Cisterna,Region Metropolitana,976474914,SR,Comercio
+2023,No Contratado,Cinthia Osinaga,Femenino,Google,SR,Sin Informacion,,SR,Vivienda
+2023,No Contratado,Rosa Carmona,Femenino,Google,Puente alto,Region Metropolitana,999577729,ROSACARMONA737@GMAIL.COM,Vivienda
+2023,No Contratado,Ramona Cespedes,Femenino,Embajador,Melipilla,Region Metropolitana,991965741,RAMONACESPEDES2004@GMAIL.COM,Por Definir
+2023,No Contratado,Daniel Diaz,Masculino,Google,Puente alto,Region Metropolitana,,SR,Comercio
+2023,No Contratado,Blanca Rosa Pancera,Femenino,Google,Chillan,Region de Nuble,935691617,BRMNODO@GAMIL.COM,Comercio
+2023,No Contratado,Rosa Abarca,Femenino,Google,Rancagua,Region del Libertador Bernardo O'Higgins,986684732,ABARCA399@MAIL.COM,Vivienda
+2023,No Contratado,Eduardo Nuñez,Femenino,Google,Temuco,Region de La Araucania,987434755,SR,Vivienda
+2023,No Contratado,Enzo Espinoza,Masculino,Google,Cerrillos,Region Metropolitana,962063297,SR,Vivienda
+2023,No Contratado,Leonardo Perez,Masculino,Google,Renca,Region Metropolitana,944529085,SR,Vivienda
+2023,No Contratado,Benedicta Isla,Femenino,Google,Concepcion,Region Bio-Bio,995108671,SR,Vivienda
+2023,No Contratado,Diana Villega,Femenino,Embajador,Lago Rapel,Region del Libertador Bernardo O'Higgins,944619781,DVILLEGAR@MIUCSH.CL,Comercio
+2023,No Contratado,Lorena Olivares,Femenino,Google,El Quisco,Region Valparaiso,,SR,Por Definir
+2023,No Contratado,Patricia Novoa,Femenino,Google,Rancagua,Region del Libertador Bernardo O'Higgins,977506544,PNOVOATORRES@GMAIL.COM,Vivienda
+2023,No Contratado,Ester Zarate,Femenino,Google,Puente alto,Region Metropolitana,956331637,SR,Por Definir
+2023,No Contratado,Lorenzo Torres,Masculino,Google,Huechuraba,Region Metropolitana,976450654,SR,Vivienda
+2023,No Contratado,Carlos Vasquez,Masculino,Google,Puente alto,Region Metropolitana,937107127,SR,Vivienda
+2023,No Contratado,Luis Rojas,Masculino,Google,CALERA,Region Valparaiso,946984771,SR,Vivienda
+2023,No Contratado,Elizabeth Pavez,Femenino,Google,San Bernardo,Region Metropolitana,942732843,SR,Vivienda
+2023,No Contratado,Olga Salamanca,Femenino,Google,Puente alto,Region Metropolitana,933911180,OLGASALAMANCAREBOLLEDO@GMAIL.COM,Vivienda
+2023,No Contratado,Patricio Beltran,Masculino,Google,San Nicolas,Region de Nuble,984383269,PATO.1967.OMAR@GMAIL.COM,Vivienda
+2023,No Contratado,Ruth Molina,Femenino,Google,Santiago,Region Metropolitana,968376457,RUCHYMOLINA@HOTMAIL.COM,Vivienda
+2023,No Contratado,Carlos Cartoni,Masculino,Google,Santiago,Region Metropolitana,993827568,SR,Comercio
+2023,No Contratado,Nolverna Reyes,Femenino,Google,Talca,Region del Maule,952080288,NOLBERNAREYES1962@GMAIL.COM,Comercio
+2023,No Contratado,Yovana Ramos,Femenino,Google,La Cisterna,Region Metropolitana,978806648,YRAMOS@GEOCONTROL.CL,Comercio
+2023,No Contratado,Jaime Montecino,Masculino,Google,La Granja,Region Metropolitana,965947421,SR,Vivienda
+2023,No Contratado,Jose Landibatr,Masculino,Google,Santiago,Region Metropolitana,959814759,JOSEDANIEL.LANDIBAR@GMAIL.COM,Vivienda
+2023,No Contratado,Fernando Campos,Masculino,Google,Loncoche,Region de La Araucania,985279411,FERCAMPOS73@GMAIL.COM,Comercio
+2023,No Contratado,Fabiola Bacian,Femenino,Embajador,Iquique,Region de Tarapaca,953064547,SR,Vivienda
+2023,No Contratado,Sergio Diaz,Masculino,Google,Ancud,Region de Los Lagos,,SR,Por Definir
+2023,No Contratado,Johana Olivares,Femenino,Google,Quinta Normal,Region Metropolitana,950402709,SR,Comercio
+2023,No Contratado,Tamara Sepulveda,Femenino,Google,San Miguel,Region Metropolitana,920879318,SR,Vivienda
+2023,No Contratado,Ximena Farias,Femenino,Google,Puente alto,Region Metropolitana,995045804,XFO-@HOTMAIL.COM,Vivienda
+2023,No Contratado,Marta Jara,Femenino,Google,Catemu,Region Valparaiso,971786960,MARTAJARABABUEIX@GMAIL.COM,Vivienda
+2023,No Contratado,Virginia Muñoz,Femenino,Google,Penaflor,Region Metropolitana,988304072,SR,Vivienda
+2023,No Contratado,Ana Huerta,Femenino,Google,Villa Alemana,Region Valparaiso,953247953,SR,Vivienda
+2023,No Contratado,Felipe Garrido,Masculino,Google,Puente alto,Region Metropolitana,930731538,SR,Vivienda
+2023,No Contratado,Rosa Jimenez,Femenino,Google,El Tabo,Region Valparaiso,844669139,SR,Vivienda
+2023,No Contratado,Gladyz Salas,Femenino,Google,Cartagena,Region Valparaiso,946967551,SR,Vivienda
+2023,No Contratado,Magdalena Diaz,Femenino,Google,Araucania,Region de La Araucania,986549494,TJ01.Magdalena87@GMAIL.COM,Vivienda
+2023,No Contratado,Mauricio Zaes,Masculino,Google,Coronel,Region Bio-Bio,966855664,SR,Vivienda
+2023,No Contratado,Mauricio Garcia,Masculino,Google,San Felipe,Region Valparaiso,996786305,MAURIOCIOEGC@GMAIL.COM,Vivienda
+2023,No Contratado,Cristian Vega,Masculino,Google,Maipu,Region Metropolitana,940322936,VEGGAST@OUTLOOK.COM,Vivienda
+2023,No Contratado,Aurora Rios,Femenino,Google,San Ramon ,Region Metropolitana,939001792,AURORARIOSROSALES7@GMAIL.COM,Vivienda
+2023,No Contratado,Juan Manuel,Masculino,Google,Pedro Aguirre Cerda,Region Metropolitana,975468080,JOSEMANUELSANJUAN252@GMAIL.COM,Vivienda
+2023,No Contratado,Luis Melincolipi,Masculino,Google,Rancagua,Region del Libertador Bernardo O'Higgins,973723384,SR,Vivienda
+2023,Contratado,Lidia Ayala,Femenino,Google,San Miguel,Region Metropolitana,996792268,SR,Vivienda
+2023,No Contratado,Prosterina Ponce,Femenino,Google,Quilicura,Region Metropolitana,998527588,SR,Vivienda
+2023,No Contratado,Jessica Ternero,Femenino,Google,San Bernardo,Region Metropolitana,965752441,SR,Por Definir
+2023,No Contratado,Maria Moreno Cornejo ,Femenino,Google,Penalolen,Region Metropolitana,942596700,SR,Por Definir
+2023,No Contratado,Karla Diaz,Femenino,Google,La Serena,Region de Coquimbo,951604014,KARLA.ANTOFA@HOTMAIL.COM,Vivienda
+2023,No Contratado,Mariana Diaz,Femenino,Google,Machali,Region del Libertador Bernardo O'Higgins,986930292,MARIANADIAZ14101964@GMAIL.COM,Vivienda
+2023,No Contratado,Silvia Berrios,Femenino,Google,La Cisterna,Region Metropolitana,953969813,SR,Vivienda
+2023,No Contratado,Margarita Zaraceta,Femenino,Google,San Miguel,Region Metropolitana,997454983,MARGARITA.ZALACETA@HOTMAIL.COM,Vivienda
+2023,No Contratado,Yoselyn Bernales,Femenino,Google,Pedro Aguirre Cerda,Region Metropolitana,923873696,SR,Vivienda
+2023,No Contratado,Pablo Mondaca,Masculino,Google,Algarrobo,Region Valparaiso,963740829,CEIBOSPROPIEDADES@GMAIL.COM,Vivienda
+2023,No Contratado,Rita Flores,Femenino,Google,Padre Hurtado ,Region Metropolitana,995745048,FLORESVERASRITA@GMAIL.COM,Vivienda
+2023,No Contratado,Javier Cruz,Masculino,Google,La Florida,Region Metropolitana,979815235,SR,Vivienda
+2023,No Contratado,Amelia Alfaro,Femenino,Google,Maipu,Region Metropolitana,999742825,SR,Vivienda
+2023,No Contratado,Danilo Lopez,Masculino,Google,Casa Blanca,Region Valparaiso,973420702,SR,Vivienda
+2023,No Contratado,Deyanira Azocar,Femenino,Google,Longavi,Region del Maule,991334898,DEYANIRA_AZOCAR@HOTMAIL.COM,Vivienda
+2023,No Contratado,Rocio Vargas,Femenino,Embajador,SR,Sin Informacion,,SR,Por Definir
+2023,No Contratado,Jorge Caceres,Masculino,Google,Puente alto,Region Metropolitana,921713191,JORGECACERES2007@HOTMAIL.COM,Vivienda
+2023,No Contratado,Zulema Urrea,Femenino,Google,Puente alto,Region Metropolitana,982410308,SR,Vivienda
+2023,No Contratado,Veronica Lopez,Femenino,Embajador,Lo Barnechea,Region Metropolitana,,SR,Por Definir
+2023,No Contratado,Hernan Mariange,Masculino,Google,Estacion Central,Region Metropolitana,990042815,PATRICIAFAUERE@GMAIL.COM (email HIJA),Vivienda
+2023,Contratado,Diego Gajardo,Femenino,Google,Las Condes,Region Metropolitana,987265745,DIEGO.GAJARDO@MIPLACARD.CL,Comercio
+2023,No Contratado,Cristina Oyarce Rocha,Masculino,Google,Cerro Navia,Region Metropolitana,935171934,CRISTINA.VALENTINA.OYARCE@GMAIL.COM,Vivienda
+2023,No Contratado,Nelson Zuñiga,Masculino,Google,Pudahuel,Region Metropolitana,947532784,SR,Vivienda
+2023,No Contratado,Amelia Saenz,Femenino,Google,Maipu,Region Metropolitana,965150475,N USA,Vivienda
+2023,No Contratado,Juan Beltran,Masculino,Google,Las Condes,Region Metropolitana,940132085,JLBRCAFE@GMAIL.COM,Comercio
+2023,No Contratado,Edelmir Becerra,Masculino,Google,Rancagua,Region del Libertador Bernardo O'Higgins,993488139,PEREZ_BECERRA_@HOTMAIL.COM,Vivienda
+2023,No Contratado,Soledad Cardozo,Femenino,Google,Nunoa,Region Metropolitana,996942522,SOLEDADCARDOZO_83@HOTMAIL.COM,Vivienda
+2023,No Contratado,Alejandro Gonzalez,Masculino,Google,El Tabo,Region Valparaiso,930782114,SR,Vivienda
+2023,No Contratado,Nelson Martinez,Masculino,Google,Renca,Region Metropolitana,940573678,SR,Comercio
+2023,No Contratado,Carlos Martinez,Masculino,Google,La Cisterna,Region Metropolitana,993480801,MAETINEZCIDCAR@GMAIL.COM,Por Definir
+2023,No Contratado,Jenry Casa,Masculino,Google,Independencia,Region Metropolitana,983294511,SR,Comercio
+2023,No Contratado,Natalia Carter,Femenino,Google,Colina,Region Metropolitana,984577732,SR,Vivienda
+2023,No Contratado,Jose Almeida,Masculino,Google,Pudahuel,Region Metropolitana,965677154,JALMEIDA@REDTECSA.COM,Comercio
+2023,No Contratado,Yolanda Castillo,Femenino,Google,San Miguel,Region Metropolitana,,SR,Por Definir
+2023,No Contratado,Mauricio Salas,Masculino,Google,San Miguel,Region Metropolitana,944100966,MSGALEJANDRO@GMAIL.COM,Vivienda
+2023,No Contratado,Jennifer Bondi,Femenino,Embajador,Pudahuel,Region Metropolitana,,SR,Por Definir
+2023,No Contratado,Gonzalo Pinto,Masculino,Embajador,Colina,Region Metropolitana,942372584,KATTY_SEPULVEDA@HOTMAIL.COM,Por Definir
+2023,No Contratado,Nora Mella,Femenino,Embajador,Pudahuel,Region Metropolitana,979395485,NMELLASM@GMAIL.COM,Vivienda
+2023,Contratado,Claudio Burgos,Femenino,Embajador,La Cisterna,Region Metropolitana,,SR,Por Definir
+2023,No Contratado,Gonzalo Dominguez,Masculino,Embajador,Quintero,Region Valparaiso,920452538,SR,Vivienda
+2023,No Contratado,Milka Vegas,Femenino,Google,Puchuncavi,Region Valparaiso,974558671,MILKACARMEN1974@GMAIL.COM,Comercio
+2023,No Contratado,Jose Arrigorriaga,Masculino,Google,Las Condes,Region Metropolitana,990435797,JPARRIGORRIAGA@PETROPRIX.COM,Por Definir
+2023,No Contratado,Mario Rojas,Masculino,Google, La Florida,Region Metropolitana,942877939,MARIOROJAS@GMAIL.CO M,Vivienda
+2023,No Contratado,Luis Garcia,Masculino,Embajador,Penalolen,Region Metropolitana,974031064,LGGO11@GMAIL.COM,Comercio
+2023,No Contratado,Hector Diaz,Masculino,Embajador,Cerro Navia,Region Metropolitana,944497111,SR,Vivienda
+2024,Contratado,Katherinne Zuñiga,Femenino,Embajador,SR,Sin Informacion,,SR,Por Definir
+2024,No Contratado,Juan Andres Sendaden,Masculino,Embajador,Buin,Region Metropolitana,966623758,SR,Vivienda
+2024,No Contratado,,Otro,Embajador,Los Andes,Region Valparaiso,949221067,SR,Por Definir
+2024,Contratado,Cristian Calderon,Masculino,Embajador,El Bosque,Region Metropolitana,984461468,cristiancalderon74@gmail.com,Vivienda
+2024,Contratado,Alvaro Galdamez,Masculino,Embajador,Cerro Navia,Region Metropolitana,983788766,alvaro.galdames95@gmail.com,Vivienda
+2024,Contratado,Adolfo Goecke,Masculino,Google,Puente alto,Region Metropolitana,984415132,fitox_3@yahoo.es,Vivienda
+2024,Contratado,Seleny Cassanova,Femenino,Google,La Cisterna,Region Metropolitana,946477264,maritzacu67@gmail.com,Vivienda
+2024,Contratado,Emilio Sahurie,Masculino,Google,concon,Region Valparaiso,934390815,esahurie@sahurie.cl,Comercio
+2024,No Contratado,Felipe Tapia,Masculino,Embajador,Calera de Tango,Region Metropolitana,988080923,FELIPE@PISCINABLUE.CL,Vivienda
+2024,Contratado,Rodrigo Rojas,Masculino,Embajador,La Serena,Region de Coquimbo,971000963,rarg1967@gmail.com,Comercio
+2024,Contratado,Evelyn Goldmann,Femenino,Formulario,Paine,Region Metropolitana,993997697,egoldmank@gmail.com,Comercio
+2024,No Contratado,Evelyn Galvez,Femenino,Embajador,Quinta Normal,Region Metropolitana,995416426,SR,Vivienda
+2024,No Contratado,Soledad Montenegro,Femenino,Telefono,Algarrobo,Region Valparaiso,987050965,SR,Vivienda
+2024,No Contratado,Gerardo Hormazabal,Masculino,Google,Recoleta,Region Metropolitana,989940211,ghormazabal@Recoleta.cl,Vivienda
+2024,No Contratado,Javier Diaz,Masculino,Telefono,Vina del mar,Region Valparaiso,951906140,JAVIER.DIAZ.NEIRA@GMAIL.COM,Por Definir
+2024,No Contratado,Carel Ceron,Masculino,Telefono,Algarrobo,Region Valparaiso,995375489,SR,Vivienda
+2024,Contratado,Javier Leniz,Masculino,Formulario,Macul,Region Metropolitana,974512515,javier.leniz@americaporlainfancia.com,Vivienda
+2024,Contratado,America Hoffman,Masculino,Formulario,SR,Sin Informacion,988190596,America.hoffmann.m@gmail.com,Vivienda
+2024,Contratado,Nicolas Gonzalez,Masculino,Formulario,SR,Sin Informacion,994198856,n.iturrate@gmail.com,Vivienda
+2024,Contratado,Giacomo Perciavalle,Masculino,Formulario,SR,Sin Informacion,992767015,GIACOMOPL@HOTMAI.COM,Por Definir
+2024,No Contratado,Yikin Loo,Masculino,Telefono,Quinta Normal,Region Metropolitana,992252924,SR,Vivienda
+2024,No Contratado,Cristian Castaño,Masculino,Telefono,Lampa,Region Metropolitana,992799533,SR,Vivienda
+2024,No Contratado,Leopoldo Rivas,Masculino,Telefono,Valparaiso,Region Valparaiso,971727972,SR,Vivienda
+2024,Contratado,Eduardo,Masculino,Formulario,SR,Sin Informacion,948134914,ecantillana@prize.cl,Comercio
+2024,No Contratado,Lizabhet Warner,Femenino,Telefono,Santiago,Region Metropolitana,978502622,SR,Vivienda
+2024,Contratado,Mauricio Aravena,Masculino,Formulario,SR,Sin Informacion,933274389,mauricioarvena1704@gmail.com,Comercio
+2024,Contratado,Karin Muñoz,Femenino,Formulario,Conchali,Region Metropolitana,972774811,SR,Vivienda
+2024,Contratado,Camila Barsotti,Femenino,Formulario,SR,Sin Informacion,978063055,cbarsotti@arq2.cl,Comercio
+2024,No Contratado,Rodrigo Silva,Masculino,Telefono,Las Condes,Region Metropolitana,952021094,ROSOFI08@GMAIL.COM,Vivienda
+2024,No Contratado,Carlos Lamig,Masculino,Telefono,Puente alto,Region Metropolitana,953257978,LAMIGCARLOS@GMAIL.COM,Vivienda
+2024,No Contratado,Fran Castro,Masculino,Telefono,Independencia,Region Metropolitana,987543790,SR,Comercio
+2024,Contratado,Sinia,Femenino,Formulario,SR,Sin Informacion,981875245,brisadelmar_91@hotmail.com,Comercio
+2024,Contratado,Alexis Garrido,Masculino,Formulario,SR,Sin Informacion,982797401,alexishernangarrido@gmail.com,Vivienda
+2024,No Contratado,Myriam Bravo,Femenino,Telefono,La Granja,Region Metropolitana,979231273,SR,Vivienda
+2024,No Contratado,Rigoberto Arias,Masculino,Telefono,Vina del mar,Region Valparaiso,993441667,SR,Vivienda
+2024,No Contratado,Miguel Angel Martin,Masculino,Telefono,Buin,Region Metropolitana,992224773,MIGUEL_ANGELML@YAHOO.ES,Vivienda
+2024,No Contratado,Sandra Azocar,Femenino,Telefono,Maipu,Region Metropolitana,,SR,Vivienda
+2024,Contratado,Juan Poblete,Masculino,Formulario,SR,Sin Informacion,966625366,juanliguria@gmail.com,Vivienda
+2024,No Contratado,Guido Nuñez,Masculino,Embajador,Coronel,Region Bio-Bio,,SR,Vivienda
+2024,Contratado,Enzo,Femenino,Embajador,Colina,Region Metropolitana,,SR,Comercio
+2024,No Contratado,Club Providencia,Masculino,Embajador,Providencia,Region Metropolitana,,SR,Vivienda
+2024,No Contratado,Miriam Mendoza,Femenino,Google,Puente alto,Region Metropolitana,968209800,MIRIAMMNDOZA20@GMAIL.COM,Por Definir
+2024,No Contratado,Carlos Valenzuela,Masculino,Google,Puente alto,Region Metropolitana,,SR,Vivienda
+2024,Contratado,Gonzalo Mehech,Masculino,Formulario,Vitacura,Region Metropolitana,992339447,gmehech@esirio.cl,Comercio
+2024,Contratado,Carolina Sepulveda,Femenino,Formulario,SR,Sin Informacion,,carolina.andrea.sp@gmail.com,Otro 
+2024,Contratado,Diana Vega,Femenino,Formulario,SR,Sin Informacion,573114008714,dvega@mediastre.am,Comercio
+2024,No Contratado,Pietro Vazques,Masculino,Google,Nunoa,Region Metropolitana,982953922,PIETRO.VB.HP@GMAIL.COM,Vivienda
+2024,No Contratado,Luis Galaz,Femenino,Embajador,San Antonio,Region Valparaiso,,SR,Vivienda
+2024,No Contratado,Evelyn Galvez,Femenino,Embajador,Maipu,Region Metropolitana,,SR,Vivienda
+2024,No Contratado,Cecilia Hernadez,Femenino,WhatsApp,Padre Hurtado,Region Metropolitana,942494839,CECILIALHERNANDEZM@GMAIL.COM,Vivienda
+2024,No Contratado,Alexis Chacon,Masculino,Formulario,La Cisterna,Region Metropolitana,978532391,achacon.serrano@gmail.com,Comercio
+2024,No Contratado,German Diaz,Masculino,Formulario,SR,Sin Informacion,930370896,gdiazcisternas@gmail.com,Comercio
+2024,No Contratado,Jose Raniqueo,Masculino,Formulario,SR,Sin Informacion,998878854,alexisrjduran@gmail.com,Por Definir
+2024,No Contratado,Jonathan Torrealba,Masculino,Formulario,SR,Sin Informacion,942258714,jtorrealba@santaritasa.cl,Vivienda
+2024,Contratado,Juan Pablo,Masculino,Embajador,Lampa,Region Metropolitana,,SR,Comercio
+2024,No Contratado,Jose Luis,Masculino,Embajador,SR,Sin Informacion,,jsoto@humbertocasarino.cl,Vivienda
+2024,No Contratado,Agustin,Masculino,Embajador,SR,Sin Informacion,962465519,agustin.guerra@inkiaenergy.cl,Comercio
+2024,No Contratado,Jorge Gutierrez,Masculino,Google,Vitacura,Region Metropolitana,998254846,hwsnet@hotmail.com,Vivienda
+2024,No Contratado,Alejandra Diaz,Femenino,Google,Santa Cruz,Region del Libertador Bernardo O'Higgins,940487856,SR,Vivienda
+2024,No Contratado,Yasna Murgas,Femenino,Formulario,Macul,Region Metropolitana,950708582,yasnamurgas21@gmail.com,Vivienda
+2024,No Contratado,Valentina Jaramillo,Femenino,Formulario,SR,Sin Informacion,997291712,valentinajaramillom@gmail.com,Vivienda
+2024,No Contratado,Kemuel,Masculino,Embajador,SR,Sin Informacion,930284491,SR,Comercio
+2024,No Contratado,Edith Alabe,Femenino,Google,Colina,Region Metropolitana,930798481,SR,Por Definir
+2024,No Contratado,Pedro Villaroel,Masculino,Google,Recoleta,Region Metropolitana,,SR,Comercio
+2024,No Contratado,Fabiola Carraro,Femenino,WhatsApp,Quinta Normal,Region Metropolitana,998655994,SR,Vivienda
+2024,No Contratado,Daniela Alfaro,Femenino,WhatsApp,Las Condes,Region Metropolitana,992258997,SR,Comercio
+2024,No Contratado,Francisco Tupper,Masculino,Formulario,Valparaiso,Region Valparaiso,997323534,Francisco.tupper@gmail.com,Comercio
+2024,No Contratado,Pedro Farias,Masculino,Telefono,Maipu,Region Metropolitana,998701317,SR,Comercio
+2024,No Contratado,Arturo Santibañez,Masculino,Google,Curacavi,Region Metropolitana,959049319,SR,Comercio
+2024,No Contratado,Monserrat Espinoza,Femenino,WhatsApp,Quilicura,Region Metropolitana,930399513,MONSERRAT.ESPINOZA@UC.CL,Vivienda
+2024,No Contratado,Franco,Masculino,Formulario,SR,Sin Informacion,977438592,francomartinezmorales@gmail.com,Comercio
+2024,No Contratado,Bernardo Montero,Masculino,Embajador,San Miguel,Region Metropolitana,951607997,SR,Comercio
+2024,No Contratado,Jorge Oliva,Masculino,Telefono,San Miguel,Region Metropolitana,963571251,JORGEANDRESOLIVOSLABRA@GMAIL.COM,Por Definir
+2024,No Contratado,Jacqueline Diaz,Femenino,Formulario,Padre Hurtado,Region Metropolitana,962277466,jaque_1961@hotmail.com,Comercio
+2024,No Contratado,Alexis Pinto,Masculino,Telefono,Santiago,Region Metropolitana,971096601,SR,Comercio
+2024,No Contratado,Anuar Romero,Masculino,Formulario,Buin,Region Metropolitana,946697042,ainex1226@gmail.com,Comercio
+2024,No Contratado,Zulema Mendoza,Femenino,Google,Vina del mar,Region Valparaiso,982008854,ZULEMA_M_P@HOTMAIL.COM,Vivienda
+2024,No Contratado,Rodrigo,Masculino,Formulario,Penaflor,Region Metropolitana,968220329,rarredondo.t@gmail.com,Comercio
+2024,No Contratado,Alexis Campos,Masculino,Formulario,SR,Sin Informacion,947104834,cristobalcampos2402@gmail.com,Comercio
+2024,No Contratado,Claudia Valenzuela,Femenino,Telefono,Algarrobo,Region Valparaiso,954496853,CCLAUDIAVALENZUELAC@GMAIL.COM,Vivienda
+2024,No Contratado,Maicol Rodriguez,Masculino,WhatsApp,La Florida,Region Metropolitana,952234021,SR,Comercio
+2024,No Contratado,Sandy,Femenino,Formulario,Maipu,Region Metropolitana,963085712,sandycuentas6@gmail.com,Vivienda
+2024,No Contratado,Cristian Cardena,Masculino,Telefono,La Granja,Region Metropolitana,988843972,SR,Por Definir
+2024,No Contratado,Miguel Angel Ossa,Masculino,Telefono,Pedro Aguirre Cerda,Region Metropolitana,973311864,SR,Vivienda
+2024,Contratado,Aldo Morales,Femenino,Telefono,Providencia,Region Metropolitana,995014560,Amorales.ech@gmail.com,vivienda
+2024,No Contratado,Saynell Mora,Femenino,Formulario,SR,Sin Informacion,949087197,saynellpatricia@gmail.com,Vivienda
+2024,No Contratado,Luis Cordova,Masculino,Formulario,La Florida,Region Metropolitana,923876326,Luishistoygeo@gmail.com,Vivienda
+2024,Contratado,Ramon Fernandez,Femenino,Telefono,Santiago,Region Metropolitana,986711739,SR,Comercio
+2024,No Contratado,Juan Pinto,Masculino,Telefono,La Florida,Region Metropolitana,990933655,jpcroff@gmail.com,Vivienda
+2024,No Contratado,Mario Ruminot,Masculino,Telefono,Nunoa,Region Metropolitana,959525846,SR,Vivienda
+2024,No Contratado,Carlos Huerta,Masculino,Formulario,Lampa,Region Metropolitana,949967425,huertapino.c@gmail.com,Comercio
+2024,No Contratado,Elbia Dangon,Femenino,Telefono,La Florida,Region Metropolitana,938910793,SR,Comercio
+2024,No Contratado,Carolina Reyes / Rodrigo Tapia,Femenino,Telefono,Villa Alemana,Region Valparaiso,995729947,SR,Vivienda
+2024,No Contratado,Jose Moraga,Masculino,Formulario,La Cisterna,Region Metropolitana,988146895,j38751334@gmail.com,Vivienda
+2024,No Contratado,Auristela,Femenino,Formulario,SR,Sin Informacion,995576029,oa.mendoza16@gmail.com,Vivienda
+2024,No Contratado,Isabel Fuentealba,Femenino,Telefono,San Bernardo,Region Metropolitana,975676475,SR,Vivienda
+2024,No Contratado,Guillermo Riveros Miranda,Masculino,Telefono,San Miguel,Region Metropolitana,982584556,CIDGUILLERMO.RM@GMAIL.COM,Vivienda
+2024,No Contratado,Moroni,Masculino,Embajador,Placilla,Region del Libertador Bernardo O'Higgins,,SR,Vivienda
+2024,No Contratado,Amilkar Castelleto,Masculino,Embajador,Pudahuel,Region Metropolitana,,SR,Comercio
+2024,No Contratado,Soledad Florian,Femenino,Embajador,Recoleta,Region Metropolitana,938813039,soledadflorian@gmail.com,Comercio
+2024,No Contratado,Gregorio Carrasco,Masculino,Embajador,Quilicura,Region Metropolitana,966526566,SR,Vivienda
+2024,No Contratado,Rafael Arancibia,Masculino,Embajador,SR,Sin Informacion,963170117,rojasalejandramiranda1973@gmail.com,Por Definir
+2024,Contratado,Jose Luis Diaz,Femenino,Embajador,Penaflor,Region Metropolitana,939043918,j.d.zamorano77@gmail.com,Vivienda
+2024,No Contratado,Sara Caceres,Femenino,Embajador,Quilpue,Region Valparaiso,985719132,SR,Vivienda
+2024,No Contratado,Carmen Gloria Viera,Femenino,Embajador,La Granja,Region Metropolitana,,SR,Vivienda
+2024,No Contratado,Francisco,Masculino,Embajador,SR,Sin Informacion,996926004,SR,Vivienda
+2024,No Contratado,Cesar Jelvez,Masculino,Embajador,Huechuraba,Region Metropolitana,959698245,SR,Comercio
+2024,No Contratado,Paola Torres Uribe,Femenino,Embajador,Puente alto,Region Metropolitana,976178251,confeccionesmafta@gmail.com,Vivienda
+2024,Contratado,Edifica Pro (Alexis Cassanova),Masculino,Embajador,Cerro Navia,Region Metropolitana,982510562,SR,Vivienda
+2024,No Contratado,Astrid Pelustyle,Femenino,Embajador,Pudahuel,Region Metropolitana,965703525,SR,Comercio
+2024,Contratado,Carlos Perez,Masculino,Embajador,Pirque,Region Metropolitana,998487662,SR,Vivienda
+2024,No Contratado,Vanessa Malpa,Femenino,Telefono,SR,Sin Informacion,921938948,SR,Vivienda
+2024,Contratado,Johanna Restrepo,Femenino,Formulario,SR,Sin Informacion,976940323,Johanna.restrepo.leon@gmail.com,Vivienda
+2024,No Contratado,Jose Quezada,Masculino,Telefono,San Ramon,Region Metropolitana,9 2055 3467,SR,Vivienda
+2024,No Contratado,Ariel Rivas,Femenino,Formulario,Lampa,Region Metropolitana,965265860,ariel.rivas01@gmail.com,Comercio
+2024,No Contratado,Christian Fuentes,Masculino,Formulario,SR,Sin Informacion,9 3053 7325,christianmunozfuentes@gmail.com,Comercio
+2024,No Contratado,Margarita Silva,Femenino,Formulario,Puente alto,Region Metropolitana,953722698,msilvamonarez@gmail.com,Vivienda
+2024,Contratado,Moroni,Masculino,Embajador,Vitacura,Region Metropolitana,,SR,Comercio
+2024,No Contratado,Andrea Caceres,Femenino,Formulario,Puente alto,Region Metropolitana,975242678,andreacaceressaez@hotmail.com,Comercio
+2024,No Contratado,Luis Fernandez,Masculino,Telefono,Santiago,Region Metropolitana,956928812,SR,Comercio
+2024,No Contratado,Claudia Betancourt,Femenino,Formulario,SR,Sin Informacion,968363530,betanclaudia@gmail.com,Vivienda
+2024,No Contratado,Jessica Bello,Femenino,Formulario,Lo Espejo,Region Metropolitana,994283277,prevencion@gruposi.cl,Comercio
+2024,No Contratado,Camila Urrutia,Femenino,Embajador,La Reina,Region Metropolitana,,SR,Comercio
+2024,No Contratado,Carolina Vasquez,Femenino,Formulario,Padre Hurtado,Region Metropolitana,982165581,carovasquezg@gmail.com,Vivienda
+2024,No Contratado,Juan Cortez,Masculino,Embajador,Pudahuel,Region Metropolitana,997024339,SR,Vivienda
+"2024,No Contratado,Fabio Antileo,Masculino,Formulario,Providencia,Region Metropolitana,""953694546"
+959157824
+"llamado"",fabioafrascolla@outlook.es,Comercio"
+2024,No Contratado,Camila Ramirez,Femenino,Formulario,Quintero,Region Valparaiso,983506222,cami.ramirez0@gmail.com,Otro 
+2024,Contratado,Edifica Pro (Alexis Cassanova),Masculino,Telefono,Cerro Navia,Region Metropolitana,982510562,SR,Comercio
+2024,No Contratado,Marcelo Zeballos,Masculino,Google,San Miguel,Region Metropolitana,959718353,andes2036@gmail.com,Vivienda
+2024,No Contratado,Massiel Inostroza,Femenino,Telefono,Santiago,Region Metropolitana,999895595,SR,Vivienda
+2024,No Contratado,Hernan Silva,Masculino,Telefono,Penaflor,Region Metropolitana,993286145,SR,Vivienda
+2024,No Contratado,Debra Arenas Y Diego Bezama,Femenino,Embajador,Quilpue,Region Valparaiso,996343687,Diegobezama@gmail.com,Comercio
+2024,No Contratado,Luis Villalobos,Masculino,Telefono,Los Andes,Region Valparaiso,988125447,SR,Comercio
+2024,No Contratado,Javiera Ampuero,Femenino,WhatsApp,Las Condes,Region Metropolitana,948163100,SR,Comercio
+2024,Contratado,Siena Spa,Femenino,Embajador,El Quisco,Region Valparaiso,,SR,Comercio
+2024,No Contratado,Nicolas Leiva,Masculino,WhatsApp,Quilicura,Region Metropolitana,,SR,Vivienda
+2024,No Contratado,Andres Pla,Masculino,Google,Santiago,Region Metropolitana,993302172,arquitecto@alivegestion.cl,Vivienda
+2024,No Contratado,Rodolfo Morales,Masculino,Embajador,Independencia,Region Metropolitana,974333452,SR,Vivienda
+2024,No Contratado,Maria Valle,Femenino,Telefono,Lo Espejo,Region Metropolitana,967080264,SR,Vivienda
+2024,No Contratado,Guillermo,Masculino,Formulario,Huechuraba,Region Metropolitana,997325267,tiocondor60@gmail.com,Vivienda
+2024,Contratado,Juan Carlos Flores,Masculino,Telefono,Quilicura,Region Metropolitana,984390002,SR,Vivienda
+2024,Contratado,Ignacio Faundez,Masculino,Formulario,Nunoa,Region Metropolitana,992757542,ifaundezh@gmail.com,Vivienda
+2024,No Contratado,Carolina Maza,Femenino,Embajador,Colina,Region Metropolitana,,SR,Vivienda
+2024,No Contratado,Cristian Jara,Masculino,Formulario,El Bosque,Region Metropolitana,951011153,cristiandanilojp@gmail.com,Por Definir
+2024,No Contratado,Jose Apablaza,Masculino,Telefono,San Bernardo,Region Metropolitana,923815589,SR,Comercio
+2024,No Contratado,Hernan Ceron,Masculino,Google,SR,Sin Informacion,966372136,rociojardines17@gmail.com,Vivienda
+2024,No Contratado,Magaly Albornoz,Femenino,Telefono,Recoleta,Region Metropolitana,987343788,SR,Vivienda
+2024,No Contratado,Carol Sanguine,Femenino,Formulario,SR,Sin Informacion,940030507,SR,Vivienda
+2024,No Contratado,Adolfo Campos,Masculino,Telefono,La Florida,Region Metropolitana,998745100,SR,Vivienda
+2024,No Contratado,Claudia Vira,Femenino,Telefono,San Bernardo,Region Metropolitana,973323151,SR,Por Definir
+2024,Contratado,Marco Guajardo,Masculino,Telefono,Paine,Region Metropolitana,937591160,SR,Otro 
+2024,No Contratado,Julio Nanefran,Masculino,Telefono,Lo Espejo,Region Metropolitana,978464931,SR,Vivienda
+2024,No Contratado,Carlos Sigh,Masculino,Formulario,SR,Sin Informacion,971987120,SR,Comercio
+2024,No Contratado,Robinson Horrijo,Masculino,Telefono,Melipilla,Region Metropolitana,942461702,SR,Comercio
+2024,No Contratado,Claudio Estrada,Masculino,Telefono,Renca,Region Metropolitana,976898177,SR,Comercio
+2024,No Contratado,Camila Diaz,Femenino,Formulario,Santiago,Region Metropolitana,992268441,SR,Comercio
+2024,No Contratado,Hernan Vidal,Masculino,Telefono,Buin,Region Metropolitana,952351796,SR,Por Definir
+2024,No Contratado,Jessica Monsalve (Inmobiliaria Valle Verde),Femenino,Telefono,Valparaiso,Region Valparaiso,,SR,Comercio
+2024,No Contratado,Francisco Flores,Masculino,Formulario,Valparaiso,Region Valparaiso,988228435, francisco_fq@hotmail.com,Vivienda
+2024,No Contratado,Walter Mendoza,Masculino,Telefono,Recoleta,Region Metropolitana,988496297,SR,Vivienda
+2024,No Contratado,Marlene Chandia,Femenino,Formulario,SR,Sin Informacion,974683838,SR,Vivienda
+2024,No Contratado,Diego Mendoza,Masculino,Formulario,Concepcion,Region Bio-Bio,998867623,dmendoza@simen.cl,Por Definir
+2024,No Contratado,Mauro,Masculino,Formulario,SR,Sin Informacion,958209088,Yiakomo038@gmail.com,Vivienda
+2024,No Contratado,Joaquin,Masculino,Formulario,San Esteban,Region Valparaiso,998480770,joaquinamigo@gmail.com,Vivienda
+2024,Contratado,Siena Spa,Femenino,Embajador,El Tabo,Region Valparaiso,,SR,Educacion
+2024,No Contratado,Alvaro Desmadry,Masculino,Telefono,Renca,Region Metropolitana,978085263,SR,Comercio
+2024,No Contratado,Andres Ibarra,Masculino,Formulario,Las Condes,Region Metropolitana,991595166,andresibarrav@gmail.com,Vivienda
+2024,Contratado,Joao Batista,Masculino,Formulario,San Miguel,Region Metropolitana,947944315,prjbatista.silva@gmail.com,Vivienda
+2024,No Contratado,Rodrigo Yoyo,Masculino,Embajador,La Florida,Region Metropolitana,,SR,Vivienda
+2024,No Contratado,Victor Fuentes,Masculino,Formulario,Quilpue,Region Valparaiso,973670537,victorfuentesespinoza61@gmail.com,Vivienda
+2024,No Contratado,Francisca Ramirez,Femenino,Telefono,La Florida,Region Metropolitana,982604466,SR,Vivienda
+2024,No Contratado,Erick Barrientos,Masculino,Formulario,SR,Sin Informacion,973242552,barriholman1901@gmail.com,Por Definir
+2024,No Contratado,Joel Falcon,Masculino,Telefono,La Florida,Region Metropolitana,998432788,SR,Vivienda
+2024,No Contratado,Victoria Veloso,Masculino,Formulario,SR,Sin Informacion,987253541,vickyvelos7070@gmail.com,Vivienda
+2024,No Contratado,Maria Caburga,Femenino,Formulario,Caburga,Region de La Araucania,968318475,mlorettosalas@gmail.com,Vivienda
+2024,No Contratado,Christian Axyz,Masculino,Formulario,SR,Sin Informacion,984768622,titi_44@gmail.es,Vivienda
+2024,No Contratado,Jose Rodriguez,Masculino,WhatsApp,Macul,Region Metropolitana,993784654,SR,Vivienda
+2024,No Contratado,Felipe Contreras,Masculino,Formulario,Las Condes,Region Metropolitana,984644530,felipe@daffl.com,Comercio
+2024,No Contratado,Jeissy Ramos,Femenino,Telefono,Lo Prado,Region Metropolitana,978333354,SR,Vivienda
+2024,No Contratado,Georgina Herrera,Femenino,Formulario,Valparaiso,Region Valparaiso,939650842,georginaherrera204@gmail.com,Comercio
+2024,No Contratado,Eleazar,Femenino,Formulario,SR,Sin Informacion,950177374,eleazarnieves2023@gmail.com,Comercio
+2024,No Contratado,Juan Perez,Masculino,Telefono,Curacavi,Region Metropolitana,963007549,SR,Vivienda
+2024,No Contratado,Cristobal Muñoz,Masculino,Telefono,San Miguel,Region Metropolitana,976154333,SR,Vivienda
+2024,No Contratado,Jaime Pacheco,Masculino,Telefono,Rancagua,Region del Libertador Bernardo O'Higgins,978866703,SR,Vivienda
+2024,No Contratado,Vanessa Lopez,Femenino,Formulario,Rancagua,Region del Libertador Bernardo O'Higgins,994743428,SR,Por Definir
+2024,No Contratado,Erwin Leyton,Masculino,Formulario,SR,Sin Informacion,956007743,erwinley34@gmail.com,Por Definir
+2024,No Contratado,Benjamin Ramirez,Masculino,Formulario,Rancagua,Region del Libertador Bernardo O'Higgins,951478340,benjamin._ramirez@icloud.com,Vivienda
+2024,No Contratado,Margarita Novoa,Femenino,Formulario,Chillan,Region de Nuble,951685400,uvalmargarita229@gmail.com,Comercio
+2024,Presupuestado,Felix Pino,Masculino,Formulario,La Pintana,Region Metropolitana,994351991,fpinochile@gmail.com,Comercio
+2024,No Contratado,Sonia Gomez,Femenino,Formulario,SR,Sin Informacion,962745755,nikole.tamara.soto@gmail.com,Vivienda
+2024,No Contratado,Gladys Tito,Femenino,Telefono,Santiago,Region Metropolitana,998302228,SR,Vivienda
+2024,No Contratado,Cristian Hidalgo,Masculino,Telefono,Valparaiso,Region Valparaiso,983513044,SR,Vivienda
+2024,No Contratado,Javiera Trainer,Femenino,Formulario,Rancagua,Region del Libertador Bernardo O'Higgins,978865265,javieraptrainer@gmail.com,Vivienda
+2024,No Contratado,Tamara Arrue,Femenino,Formulario,SR,Sin Informacion,985032883,tamaraarrue53@gmail.com,Vivienda
+2024,No Contratado,Alejandro Axyz,Masculino,Formulario,Olmue,Region Valparaiso,938704346,rojasmaclaudia@gmail.com,Vivienda
+2024,No Contratado,Angelica Castro,Femenino,Formulario,SR,Sin Informacion,971934341,angelicacastrogomez1@gmail.com,Comercio
+2024,No Contratado,Roberto Sandoval,Masculino,Telefono,Colina,Region Metropolitana,928587752,SR,Vivienda
+2024,No Contratado,Fernando Veroiza,Masculino,Telefono,Puente alto,Region Metropolitana,996650855,SR,Vivienda
+2024,No Contratado,Marissa Perez,Femenino,Telefono,Valparaiso,Region Valparaiso,993447872,SR,Vivienda
+2024,No Contratado,Francisco Soriano,Masculino,Formulario,Maipu,Region Metropolitana,999199968,fjsoriano@yahoo.com,Comercio
+2024,No Contratado,Carlos Contreras,Masculino,Telefono,Estacion Central,Region Metropolitana,942458225,SR,Vivienda
+2024,No Contratado,Claudia Medina,Femenino,Telefono,Nunoa,Region Metropolitana,999690119,SR,Vivienda
+2024,No Contratado,Jose Guerra Godoy,Masculino,Formulario,Arica,Region Arica y Parinacota,995800030,jguerra@enapu.com.pe,Comercio
+2024,No Contratado,Maria Isabel Rios,Femenino,Formulario,Talca,Region del Maule,929751973,isarios72@yahoo.es,Vivienda
+2024,No Contratado,Ximena Ortiz,Femenino,Formulario,Antofagasta,Region de Antofagasta,963475017,paxico38@hotmail.com,Vivienda
+2024,No Contratado,Camila Mendoza,Femenino,Formulario,SR,Sin Informacion,961288896,camilamendoza441@gmail.com,Vivienda
+2024,No Contratado,Marco Rodriguez,Masculino,Formulario,Valparaiso,Region Valparaiso,992527764,groporto@gmail.com,Vivienda
+2024,No Contratado,Pilar Cordero,Femenino,Formulario,Melipilla,Region Metropolitana,977950308,carmendelpilarchile@gmail.com,Vivienda
+2024,No Contratado,Fernanda Salinas,Femenino,Google,San Esteban,Region Valparaiso,992416818,SR,Comercio
+2024,No Contratado,Elias Axyz,Masculino,Formulario,Independencia,Region Metropolitana,996528573,verandy1979@gmail.com,Vivienda
+2024,No Contratado,Claudio Creapillo,Masculino,Formulario,SR,Sin Informacion,998851084,SR,Vivienda
+2024,No Contratado,Jorge Fernandez,Masculino,Formulario,Vina del mar,Region Valparaiso,958379397,SR,Comercio
+2024,No Contratado,Fabian Ortiz,Masculino,Formulario,SR,Sin Informacion,978457395,f.ortiz.solis@gmail.com,Vivienda
+2024,No Contratado,Nicolas Nova (Jocelyn Magnetti),Masculino,Formulario,Colina,Region Metropolitana,996348936,jocelyn.magnetti@usach.cl,Vivienda
+2024,No Contratado,Jose Burgos,Masculino,Formulario,San Antonio,Region Valparaiso,997368481,jobusan70@gmail.com,Vivienda
+2024,No Contratado,Aline Matos,Masculino,Formulario,SR,Sin Informacion,975762769,amatos.me@gmail.com,Vivienda
+2024,No Contratado,Francisco Medina,Masculino,Formulario,La Reina,Region Metropolitana,995824018,francisco.medinaa@gmail.com,Vivienda
+2024,No Contratado,Meybol,Masculino,Formulario,SR,Sin Informacion,975153586,meybolaguirre107@gmail.com,Vivienda
+2024,No Contratado,Juan Carlos Quiroz,Masculino,Telefono,Pudahuel,Region Metropolitana,961583497,SR,Vivienda
+2024,No Contratado,Amelia Tafur,Femenino,Formulario,La Florida,Region Metropolitana,974786021,amelitafur@gmail.com,Vivienda
+2024,No Contratado,Rosa Letelier,Femenino,Formulario,Limache,Region Valparaiso,956134786,rosa.letelier@hotmail.com,Comercio
+2024,No Contratado,Jennifer Ibarra,Femenino,Telefono,San Bernardo,Region Metropolitana,950175194,SR,Vivienda
+2024,No Contratado,Julio Barra,Masculino,Telefono,Conchali,Region Metropolitana,987610909,SR,Vivienda
+2024,No Contratado,Marcela Farias,Femenino,Formulario,La Florida,Region Metropolitana,964302947,agathaa09@gmail.com,Otro 
+2024,No Contratado,Luis Pelao,Masculino,Telefono,Quilicura,Region Metropolitana,995408146,SR,Comercio
+2024,No Contratado,Yeni Axyz,Femenino,Formulario,Macul,Region Metropolitana,957970029,jelomu1983@gmail.com,Comercio
+2024,No Contratado,Catalina Salosni,Femenino,Telefono,Talagante,Region Metropolitana,976693158,SR,Por Definir
+2024,No Contratado,Hanna Back,Femenino,Formulario,Valparaiso,Region Valparaiso,961934319,hanna.back.p@gmail.com,Vivienda
+2024,No Contratado,Jorge Rica,Masculino,Formulario,Villarica,Region de La Araucania,999987895,sellomec@gmail.com,Vivienda
+2024,Presupuestado,Jaime Rivera,Masculino,Formulario,La Florida,Region Metropolitana,977995024,risoc.j.ser@gmail.com,Vivienda
+2024,No Contratado,Vanesa Pardo,Femenino,Formulario,Chillan,Region de Nuble,972160861,Vanessa.pardoramos@gmail.com,Por Definir
+2024,No Contratado,Williams Axyz,Masculino,Formulario,SR,Sin Informacion,976859925,williamsramirez1974@gmail.com,Vivienda
+2024,No Contratado,Monica Matamala,Femenino,Formulario,SR,Sin Informacion,996411116,momatamala@gmail.com,Vivienda
+2024,No Contratado,Ana Axyz,Femenino,Formulario,SR,Sin Informacion,950178058,floreria.ayinray.osorno@gmail.com,Por Definir
+2024,No Contratado,Danilo Parra,Masculino,Formulario,SR,Sin Informacion,976492928,dpv.parra@gmail.com,Vivienda
+2024,No Contratado,Marcelo Avendaño,Masculino,Embajador,Quinta Normal,Region Metropolitana,,SR,Vivienda
+2024,No Contratado,Marco Moyano,Masculino,Formulario,Puente alto,Region Metropolitana,984805881,moyanomarcos1979@gmail.com,Vivienda
+2024,No Contratado,Paula Pino,Femenino,Formulario,SR,Sin Informacion,993088998,paulapino81@gmail.com,Vivienda
+2024,No Contratado,Maria Alicia Navarro,Femenino,Telefono,Melipilla,Region Metropolitana,990804272,SR,Vivienda
+2024,No Contratado,Omar Roque,Masculino,Telefono,Independencia,Region Metropolitana,990652284,SR,Comercio
+2024,No Contratado,Milton Paredes,Masculino,Telefono,Rancagua,Region del Libertador Bernardo O'Higgins,974680236,SR,Por Definir
+2024,No Contratado,Martin Basualdo,Masculino,Formulario,La Florida,Region Metropolitana,543512051016,martinbasualdo2589200477680@gmail.com,Comercio
+2024,No Contratado,Juan Carlos Lopez Arenas,Masculino,Formulario,Frutillar,Region de Los Lagos,992071381,jclopezarenas07@gmail.com,Vivienda
+2024,No Contratado,Luis Arancibia,Masculino,Formulario,Lo Barnechea,Region Metropolitana,930702231,luis_aran@icloud.com,Vivienda
+2024,No Contratado,Alejandra Carmona,Femenino,Formulario,Iquique,Region de Tarapaca,982752354,acarmona.river@gmail.com,Comercio
+2024,No Contratado,Guillermina Opazo,Femenino,Formulario,SR,Sin Informacion,982472058,guillermina01769@gmail.com,Vivienda
+2024,No Contratado,Linda Jelin,Femenino,Telefono,Lo Espejo,Region Metropolitana,954409744,SR,Vivienda
+2024,No Contratado,Julio Herrera,Masculino,Telefono,Nogales,Region Valparaiso,979990935,SR,Vivienda
+2024,No Contratado,Juan Carlos Reyes,Masculino,Formulario,Buin,Region Metropolitana,998718774,jcreyes@tuniche.cl,Vivienda
+2024,No Contratado,Jorge Ferrer,Masculino,Telefono,Melipilla,Region Metropolitana,993301987,SR,Por Definir
+2024,No Contratado,Jaime Gasmuri,Masculino,Telefono,Recoleta,Region Metropolitana,997937676,SR,Vivienda
+2024,No Contratado,Fernanda Yañez,Femenino,Formulario,SR,Sin Informacion,930381082,Fernanda.yanez1@virginiogomez.cl,Por Definir
+2024,No Contratado,Luis Farias,Masculino,Telefono,San Antonio,Region Valparaiso,961483951,SR,Por Definir
+2024,No Contratado,Keisy Lopez,Femenino,Telefono,La Florida,Region Metropolitana,936959492,SR,Comercio
+2024,No Contratado,Eduardo Toro,Masculino,Formulario,Coltauco,Region del Libertador Bernardo O'Higgins,998055343,eduardo.toro.et60@gmail.com,Por Definir
+2024,No Contratado,Mabel Perez,Femenino,Formulario,Quintero,Region Valparaiso,978420278,perezmabel339@gmail.com,Vivienda
+2024,No Contratado,Nilo Parra,Masculino,Formulario,San fernando,Region del Libertador Bernardo O'Higgins,975587468,niloesteban@hotmail.com,Vivienda
+2024,Registro,Henrique Rojas,Masculino,Telefono,Vina del mar,Region Valparaiso,986867143,SR,Comercio
+2024,No Contratado,Adela Elizabeth,Femenino,Formulario,SR,Sin Informacion,954215991,ykalel821@gmail.com,Vivienda
+2024,No Contratado,Jorge Cardenas,Masculino,Formulario,SR,Sin Informacion,944820166,jordenaso@gmail.com,Vivienda
+2024,No Contratado,Rosaura Fernandez,Femenino,Formulario,Graneros,Region del Libertador Bernardo O'Higgins,984218665,rosaurafernandezarenas@gmail.com,Comercio
+2024,No Contratado,Alexey Kormshchikov,Masculino,Telefono,Providencia,Region Metropolitana,975860771,SR,Vivienda
+2024,No Contratado,Jenanette Urra,Femenino,Telefono,Nunoa,Region Metropolitana,957068990,SR,Vivienda
+2024,No Contratado,Tomas Ordenes,Masculino,Telefono,La Dehesa,Region Metropolitana,965899358,SR,Comercio
+2024,No Contratado,Josefina Axyz,Femenino,Telefono,Providencia,Region Metropolitana,935100224,SR,Comercio
+2024,No Contratado,Silvia Araya,Femenino,Formulario,Santiago,Region Metropolitana,979592184,silviarah@gmail.com,Comercio
+2024,No Contratado,Cristian Baez,Masculino,Formulario,Buin,Region Metropolitana,997868232,cabaez.ro@gmail.com,Vivienda
+2024,No Contratado,Stephanie,Femenino,Formulario,Renca,Region Metropolitana,920941918,stephanie.ch58@gmail.com,Vivienda
+2024,No Contratado,Ricardo Millao,Masculino,Formulario,SR,Sin Informacion,988621780,mricardoosvaldo@yahoo.com,Vivienda
+2024,No Contratado,Jose Agemio,Masculino,Telefono,Casa Blanca,Region Valparaiso,943841934,SR,Vivienda
+2024,Presupuestado,Marco Paredes,Masculino,Telefono,San Bernardo,Region Metropolitana,979587070,SR,Vivienda
+2024,No Contratado,Bernardo Axyz,Masculino,Formulario,SR,Sin Informacion,995422332,nano_mallea@hotmail.com,Comercio
+2024,No Contratado,Wenly Axyz,Masculino,Telefono,La Florida,Region Metropolitana,979706689,SR,Vivienda
+2024,No Contratado,Carlos Campos,Masculino,Telefono,Colina,Region Metropolitana,976712544,SR,Vivienda
+2024,No Contratado,Daniel Flores,Masculino,Telefono,San Ramon,Region Metropolitana,993355131,SR,Vivienda
+2024,No Contratado,Carlos Lucero,Masculino,Telefono,Rancagua,Region del Libertador Bernardo O'Higgins,981276866,SR,Por Definir
+2024,No Contratado,Angela Beltran,Femenino,Telefono,Pirque,Region Metropolitana,996184680,SR,Por Definir
+2024,No Contratado,Jens Hardings,Masculino,WhatsApp,Vitacura,Region Metropolitana,984008901,SR,Vivienda
+2024,No Contratado,Amador Alburquenque,Masculino,Google,Talca,Region del Maule,963090673,SR,Vivienda
+2024,No Contratado,Francisco Bruna,Masculino,Formulario,Curauma,Region Valparaiso,991965581,SR,Comercio
+2024,No Contratado,Ricardo Orellana,Masculino,Embajador,Santiago,Region Metropolitana,956199434,SR,Vivienda
+2024,Presupuestado,Juan Gutierrez,Masculino,Embajador,Santiago,Region Metropolitana,963402271,SR,Comercio
+2024,No Contratado,Patricia Rivas,Femenino,Embajador,SR,Sin Informacion,990074974,patricia.soledad.rivas.juica@gmail.com,Vivienda
+2024,No Contratado,Jose Arriagada,Masculino,Embajador,Calera,Region Valparaiso,972378046,SR,Vivienda
+2024,No Contratado,Claudio Romero Soto,Masculino,Embajador,SR,Sin Informacion,966821299,claudiorome2@hotmail.com,Vivienda
+2024,No Contratado,Carolina Aros Casanova,Femenino,Embajador,Rancagua,Region del Libertador Bernardo O'Higgins,996454172,carolinaarosc@gmail.com,Vivienda
+2024,No Contratado,Milfre Molina,Masculino,Embajador,La Florida,Region Metropolitana,937324251,milfre.dralca@gmail.com,Vivienda
+2024,No Contratado,Xiomara,Femenino,Embajador,Puente alto,Region Metropolitana,940944847,xiomaramaiteoa@gmail.com,Vivienda
+2024,No Contratado,Marcelo Gonzalez,Masculino,Embajador,Penaflor,Region Metropolitana,945764630,SR,Vivienda
+2024,No Contratado,Patricia Rubio,Femenino,Formulario,San Ramon,Region Metropolitana,944027865,p.rubiogonzales@gmail.com,Vivienda
+2024,No Contratado,Ivan Barrientos,Masculino,Formulario,Pudahuel,Region Metropolitana,223625396,ivan.barrientos@indisa.cl,Vivienda
+2024,Presupuestado,Patricia Cid,Femenino,Formulario,La Reina,Region Metropolitana,961433055,pcidpalma@gmail.com,Vivienda
+2024,No Contratado,Carolina Isabel,Femenino,Formulario,Parral,Region del Maule,962702438,Carol_isabel33@hotmail.com,Vivienda
+2024,No Contratado,Natalia Lobos,Femenino,Telefono,Maipu,Region Metropolitana,976695964,SR,Vivienda
+2024,No Contratado,Marco Osorio,Masculino,Formulario,Puente alto,Region Metropolitana,941828566,osorioventas@gmail.com,Vivienda
+2024,No Contratado,Waldo Garces,Masculino,Telefono,Cerro Navia,Region Metropolitana,990231216,SR,Vivienda
+2024,No Contratado,Claudia Fuenzalida,Femenino,Formulario,SR,Sin Informacion,931382017,cfuenzalida@ucchristus.cl,Por Definir
+2024,No Contratado,Marco Cortes,Masculino,Formulario,Calera de Tango,Region Metropolitana,997200796,arriendos@inversionespiedraroja.com,Vivienda
+2024,No Contratado,Luis Diaz,Masculino,Formulario,La Florida,Region Metropolitana,997823610,luisdiaz-61@hotmail.com,Vivienda
+2024,No Contratado,Richard Castillo,Masculino,Formulario,Calera de Tango,Region Metropolitana,972699709,richardcastillon@hotmail.es,Comercio
+2024,No Contratado,Maria Luz Vega,Femenino,Telefono,Lampa,Region Metropolitana,950104090,SR,Por Definir
+2024,No Contratado,Claudio Ibarra,Masculino,Telefono,Vina del mar,Region Valparaiso,953092949,SR,Comercio
+"2024,No Contratado,David Gallardo,Masculino,Telefono,concon,Region Valparaiso,""990080110"
+"977776695"",SR,Comercio"
+2024,No Contratado,Yessenia Muñoz,Femenino,Formulario,La Granja,Region Metropolitana,973440182,yenessia2115@gmail.com,Vivienda
+2024,No Contratado,Virginia Gajardo,Femenino,Formulario,Frutillar,Region de Los Lagos,945566125,vickygajardo07@gmail.com,Vivienda
+2024,No Contratado,Adan Alfaro,Masculino,Formulario,SR,Sin Informacion,976075705,adanalfaro.1949@gmail.com,Vivienda
+2024,No Contratado,Yasna Benitez,Femenino,Formulario,SR,Sin Informacion,923835130,yasnita.benitez@hotmail.com,Vivienda
+2024,Contratado,Juan Francisco Garrido Ibarra,Masculino,Formulario,Puente alto,Region Metropolitana,978554135,panchogarrido50@yahoo.es,Vivienda
+2024,No Contratado,Paula Muñoz,Femenino,Formulario,Puente alto,Region Metropolitana,964540684,paula9974@gmail.com,Vivienda
+2024,No Contratado,Bernardo Mallea,Masculino,Formulario,SR,Sin Informacion,995422332,nano_mallea@hotmail.com,Comercio
+2024,Presupuestado,Alexandra Marcelin,Femenino,Telefono,San Ramon,Region Metropolitana,936757753,SR,Comercio
+2024,No Contratado,Sandra,Femenino,Formulario,SR,Sin Informacion,936757753,sanderlirmarcelin@gmail.com,Vivienda
+2024,No Contratado,Jorge Morilla,Masculino,Formulario,Quilicura,Region Metropolitana,992970809,jorgemorilla1981@gmail.com,Vivienda
+2024,No Contratado,Katherinne Olivares,Femenino,Embajador,Arica,Region Arica y Parinacota,956035713,SR,Comercio
+2024,No Contratado,Luis Ramirez,Masculino,Telefono,Puente alto,Region Metropolitana,985333510,SR,Vivienda
+2024,Registro,Jose Adasme,Masculino,Formulario,San Bernardo,Region Metropolitana,995750280,joseadasme66@hotmail.com,Vivienda
+2024,Registro,Tomas Gonzalez,Masculino,Telefono,Valparaiso,Region Valparaiso,973778141,SR,Vivienda
+2024,No Contratado,Francisco Pineda,Masculino,Formulario,SR,Sin Informacion,926217494,fp510354@gmail.com,Por Definir
+2024,Presupuestado,Sandra Rosales,Femenino,Embajador,Huechuraba,Region Metropolitana,981893389,SR,Comercio
+2024,No Contratado,Juan Amaro,Masculino,Formulario,SR,Sin Informacion,964181203,jfco.amaro@gmail.com,Comercio
+2024,No Contratado,Ivan Puebla,Masculino,WhatsApp,Curacavi,Region Metropolitana,930226877,SR,Vivienda
+2024,No Contratado,Sebastian Soto,Masculino,Google,Providencia,Region Metropolitana,,ssoto@hesline.c,Por Definir
+2024,Presupuestado,Gonzalo Urra,Masculino,Formulario,Estacion Central,Region Metropolitana,951930712,amasanderiaelprincipito@gmail.com,Comercio
+2024,No Contratado,Paola Diaz,Femenino,Formulario,SR,Sin Informacion,995290199,paola.diaz@telefonica.com,Vivienda
+2024,No Contratado,Gina Barra,Femenino,Telefono,Estacion Central,Region Metropolitana,967308125,SR,Por Definir
+2024,Contratado,Francisca Fujuri,Femenino,Telefono,Las Condes,Region Metropolitana,985004248,SR,Por Definir
+2024,No Contratado,Roberto De La Cruz Villanueva,Masculino,Formulario,Macul,Region Metropolitana,923871797,robertodlc568@gmail.com,Por Definir
+2024,No Contratado,Alfredo Vitar,Masculino,Formulario,Providencia,Region Metropolitana,973117749,avitar1@gmail.com,Por Definir
+2024,No Contratado,Karen Torres,Femenino,Formulario,SR,Sin Informacion,958350779,KTORRES2212@GMAIL.COM,Vivienda
+2024,No Contratado,Nicole Vasquez,Femenino,Embajador,Quinta Normal,Region Metropolitana,956858380,SR,Comercio
+2024,No Contratado,Geraldine Valenzuela,Femenino,Formulario,Pudahuel,Region Metropolitana,953355808,geraldinevalenzuelaro@gmail.com,Vivienda
+2024,No Contratado,Gustavo Cona,Masculino,Formulario,SR,Sin Informacion,2984126342,gustavocona37@gmail.com,Por Definir
+2024,No Contratado,Johanna Mella,Femenino,Formulario,SR,Sin Informacion,948558258,johanna.mella1221@gmail.com,Vivienda
+2024,No Contratado,Jose Torres,Masculino,Formulario,SR,Sin Informacion,936283644,jos.torresn@duocuc.cl,Por Definir
+2024,No Contratado,Constantino Del Campo,Masculino,Formulario,Valparaiso,Region Valparaiso,979929018,cdelcampogomez@gmail.com,Vivienda
+2024,No Contratado,Walter Pineda,Masculino,Formulario,Rancagua,Region del Libertador Bernardo O'Higgins,979920899,wpinedac@outlook.com,Vivienda
+2024,Presupuestado,Jose Flores,Masculino,Formulario,Cabrero ,Region Bio-Bio,963003558,jose20flores@gmail.com,Vivienda
+2025,Registro,Maria Jose Zenteno,Femenino,Formulario,Nunoa,Region Metropolitana,963536855,mariajose.zntn@gmail.com,Comercio
+2025,Presupuestado,Alberto Andrade,Masculino,Formulario,El Bosque,Region Metropolitana,997126000,a.andradenylund@gmail.com,Comercio
+2025,No Contratado,Roberto Tello,Masculino,Formulario,SR,Sin Informacion,998497324,robertodtellogodoy4@gmail.com,Comercio
+2025,Registro,German Electrico,Masculino,Formulario,Cerro Navia,Region Metropolitana,966043049,gfs.electrico@gmail.com,Por Definir
+2025,No Contratado,Nicolas Esteban,Masculino,Formulario,SR,Sin Informacion,951402562,nicolasesteban656@gmail.com,Vivienda
+2025,No Contratado,Carola Araya,Femenino,Telefono,Santiago,Region Metropolitana,958932003,SR,Comercio
+2024,Registro,Luz Arcos,Femenino,Formulario,Santiago,Region Metropolitana,964610639,cuerosvita@gmail.com,Vivienda
+2024,No Contratado,Joel Fernandez Maura,Masculino,Formulario,SR,Sin Informacion,992928251,joelfernandez506@gmail.com,Por Definir
+2025,No Contratado,Alejandra,Femenino,Formulario,SR,Sin Informacion,985043009,alejandra.marimanc@gmail.com,Vivienda
+2025,No Contratado,Gabriel Saez,Femenino,Telefono,Cartagena,Region Valparaiso,991034462,SR,Vivienda
+2025,No Contratado,Wilma Carvajal Vega,Femenino,Formulario,SR,Sin Informacion,978220647,SR,Comercio
+2025,No Contratado,Maria Elena Torrealba,Femenino,Formulario,SR,Sin Informacion,998275122,METROJO@GMAIL.COM,Por Definir
+2025,No Contratado,Manuel Espinoza,Femenino,WhatsApp,Arica,Region Arica y Parinacota,962417712,SR,Comercio
+2025,No Contratado,Paulina Araya,Femenino,Embajador,La Florida,Region Metropolitana,,neurovision.cl@gmail.com,Comercio
+"2025,No Contratado,Prisila Bravo,Femenino,Formulario,SR,Sin Informacion,999511815,""pilo.bravob@gmail.com"
+",Comercio
+2025,No Contratado,Beatriz Rojas,Femenino,Formulario,SR,Sin Informacion,990919986,MROJASBEA@GMAIL.COM,Vivienda
+2025,No Contratado,Carlos Rodriguez,Masculino,Formulario,Cerrillos,Region Metropolitana,999180107,carlosrodriguezmoscoso@gmail.com,Comercio
+2025,No Contratado,Camilo,Masculino,Formulario,El Tabo,Region Valparaiso,942113938,CHZ316@GMAIL.COM,Vivienda
+2025,No Contratado,Robert Jesus Monegro,Femenino,Telefono,Santiago,Region Metropolitana,989914183,SR,Comercio
+2025,No Contratado,Angel Salazar,Masculino,Formulario,Concepcion,Region Bio-Bio,990617416,angelmanuelsalazar@gmail.com,Por Definir
+2025,No Contratado,María Paz Lama,Femenino,Formulario,Colina,Region Metropolitana,9975884251846,SR,Vivienda
+2025,No Contratado,Yoryelis Mantilla,Femenino,WhatsApp,Colina,Region Metropolitana,934347628,SR,Comercio
+2025,No Contratado,Raul Muñoz,Masculino,Formulario,SR,Sin Informacion,973020863,rmunozhyr@gmail.com,Vivienda
+2025,Presupuestado,Ester Abarzua,Femenino,Formulario,Rancagua,Region del Libertador Bernardo O'Higgins,985241166,estherabarzua36@gmail.com,Vivienda
+2025,No Contratado,Jorge Armando,Masculino,Formulario,SR,Sin Informacion,937362285,tarzanmamanifuentes@gmail.com,Por Definir
+2025,No Contratado,Jaime Mills Lopez,Masculino,Formulario,SR,Sin Informacion,954020016,JIMMYMILLS1966@GMAIL.COM,Vivienda
+2025,No Contratado,Emanuel Escobar,Masculino,Formulario,Requinoa,Region del Libertador Bernardo O'Higgins,56956846068,escobarcornejoemanuel@gmail.com,Vivienda
+2025,Presupuestado,Nicole Ampuero,Femenino,WhatsApp,Talagante,Region Metropolitana,985682063,SR,Vivienda
+2025,No Contratado,Carolina Raquella,Femenino,WhatsApp,Maipu,Region Metropolitana,944982475,SR,Comercio
+2025,No Contratado,Ruben Parra,Masculino,Telefono,Lo Prado,Region Metropolitana,981334343,SR,Vivienda
+2025,Registro,Sergio G Schwember F,Masculino,Formulario,Vitacura,Region Metropolitana,996990128,gerardoschwember@gmail.com,Comercio
+2025,No Contratado,Marcela Arriagada,Femenino,Formulario,Rancagua,Region del Libertador Bernardo O'Higgins,962979082,SR,Vivienda
+2025,No Contratado,Miguel Soto,Masculino,Formulario,SR,Sin Informacion,990509525,jenja2003@gmail.com,Vivienda
+2025,No Contratado,Marcela Espinosa,Femenino,Formulario,La Cisterna,Region Metropolitana,993337070,marcelaeasenjo@gmail.com,Comercio
+2025,Presupuestado,Carmen Errazuriz,Femenino,Formulario,Santiago,Region Metropolitana,934110592,errazurizcarmen50@gmail.com,Vivienda
+2025,No Contratado,Daniela Barra,Femenino,Telefono,Melipilla,Region Metropolitana,984956256,SR,Vivienda
+2025,Registro,David,Masculino,Formulario,San Joaquin,Region Metropolitana,976507724,dprats2007@hotmail.com,Vivienda
+2025,Registro,Claudia Cancino,Femenino,Formulario,Vina del mar,Region Valparaiso,9975112106,Claudia.cancino.figueroa@gmail.com,Comercio
+2025,Registro,Karina Maldonado,Femenino,Formulario,San Jose de Maipo,Region Metropolitana,977035065,SR,Vivienda
+2025,Registro,Ricardo Varas,Masculino,Formulario,La Reina,Region Metropolitana,996981922,ricardo.varas.pacheco@gmail.com,Vivienda
+2025,No Contratado,Raul Leon,Masculino,Formulario,SR,Sin Informacion,950079881,liriol440@gmail.com,Vivienda
+2025,No Contratado,Trice Randolh Tondreau,Femenino,Formulario,Quilicura,Region Metropolitana,955286793,tricerandolh@gmail.com,Comercio
+2025,No Contratado,Viviana Bustamante,Femenino,Embajador,Penalolen,Region Metropolitana,962180061,SR,Vivienda
+2025,No Contratado,Camilo Lopez,Masculino,Telefono,Vitacura,Region Metropolitana,932517193,camilo@kreaestudio.cl,Vivienda
+2025,No Contratado,Cristian Pefferle,Masculino,Formulario,Rancagua,Region del Libertador Bernardo O'Higgins,933798665,cpefferle@gmail.com,Comercio
+2025,No Contratado,Francia Espinoza,Femenino,Formulario,SR,Sin Informacion,940963266,franespinozamaxi@gmail.com,Por Definir
+2025,No Contratado,Hazrat Habidi,Femenino,Telefono,Nunoa,Region Metropolitana,997379494,SR,Comercio
+2025,No Contratado,Jose Sanchez,Masculino,Telefono,Pedro Aguirre Cerda,Region Metropolitana,957970221,SR,Vivienda
+2025,Presupuestado,Joshua Carcamo,Masculino,Telefono,San Miguel,Region Metropolitana,950413272,SR,Vivienda
+2025,Presupuestado,Marcos Cortes,Masculino,Formulario,Calera de Tango,Region Metropolitana,997200796,macortes.saez@gmail.com"
+"arriendos@inversionespiedraroja.com"",Vivienda"
+2025,No Contratado,Belen Vargas,Femenino,WhatsApp,Curacavi,Region Metropolitana,926394158,SR,Vivienda
+2025,No Contratado,Matias Tobar,Masculino,Formulario,Santiago,Region Metropolitana,978484299,cmtobar@gmail.com,Comercio
+2025,No Contratado,Macarena Fuentes,Femenino,Formulario,Curacavi,Region Metropolitana,975896359,maalfuve@gmail.com,Vivienda
+2025,Registro,Sebastian Gili,Masculino,Formulario,San Miguel,Region Metropolitana,962477562,seba.gili@gmail.com,Comercio
+2025,No Contratado,Carlos Arriagada Jara,Masculino,Formulario,SR,Sin Informacion,966013839,carlos.arriagada.j@gmail.com,Vivienda
+2025,Registro,Oscar Conti,Masculino,WhatsApp,Providencia,Region Metropolitana,990419580,SR,Comercio
+2025,No Contratado,Victor Pizarro,Masculino,Formulario,Puente alto,Region Metropolitana,932018712,Vpizarroroman@gmail.com,Vivienda
+2025,No Contratado,María Jose Paúl,Femenino,Formulario,SR,Sin Informacion,998879552,mjpaullamar@gmail.com,Comercio
+2025,Registro,Isidora Pérez,Femenino,Formulario,La Florida,Region Metropolitana,953120362,isidoraaperez22@gmail.com,Vivienda
+2025,No Contratado,Paula Correa,Femenino,Formulario,SR,Sin Informacion,992782714,Pau.correaf@gmail.com,Vivienda
+2025,No Contratado,Alicia,Femenino,Formulario,SR,Sin Informacion,950993553,alisandi064@gmail.com,Vivienda
+2025,Registro,Francisco Cisterna,Masculino,Formulario,Quinta Normal,Region Metropolitana,987524241,franciscomorales3001@gmail.com,Comercio
+2025,No Contratado,Hector Espinoza,Masculino,Telefono,Santiago,Region Metropolitana,940437408,SR,Comercio
+2025,Registro,Jorge Soto,Masculino,Formulario,Puente alto,Region Metropolitana,993426910,SR,Comercio
+2025,No Contratado,Miguel Soto,Masculino,Formulario,FLORIDA,Region Metropolitana,990509525,jenja2003@gmail.com,Vivienda
+2025,No Contratado,Jose Matamala,Masculino,Formulario,SR,Sin Informacion,942215904,josev15411@gmail.com,Comercio
+2025,No Contratado,Solange Gonzalez,Femenino,Embajador,Penalolen,Region Metropolitana,,SR,Comercio
+2025,No Contratado,Jay,Femenino,Formulario,Santiago,Region Metropolitana,956427471,komercex@gmail.com,Por Definir
+2025,Registro,Ruben Vergara,Masculino,WhatsApp,Puente alto,Region Metropolitana,981744338,SR,Comercio
+2025,No Contratado,Andres Jerez,Masculino,WhatsApp,Huechuraba,Region Metropolitana,933870407,SR,Comercio
+2025,Registro,Valentina Rendic Hernandez,Femenino,Formulario,Las Condes,Region Metropolitana,961110258,vale.r@outlook.com,Comercio
+2025,No Contratado,Ester Mori,Femenino,Formulario,Renca,Region Metropolitana,991580336,ester.moriBravo@gmail.com,Vivienda
+2025,Presupuestado,Oscar Ortiz,Masculino,Telefono,Rancagua,Region del Libertador Bernardo O'Higgins,989136410,SR,Vivienda
+2025,Registro,Claudia Vilches,Femenino,Embajador,Pudahuel,Region Metropolitana,998698133,SR,Comercio
+2025,Registro,Daniel Pardo,Masculino,Telefono,Quilpue,Region Valparaiso,955613532,SR,Vivienda
+2025,Registro,Alexander Uzcategui,Masculino,WhatsApp,Las Condes,Region Metropolitana,957413813,SR,Comercio
+2025,No Contratado,Patricia Rojas,Femenino,WhatsApp,Pudahuel,Region Metropolitana,947500483,SR,Vivienda
+2025,No Contratado,Max Luna,Masculino,Formulario,SR,Sin Informacion,984055933,enoravinet05@gmail.com,Vivienda
+2025,Presupuestado,Luzmila Mora,Femenino,WhatsApp,Puente alto,Region Metropolitana,949010619,SR,Vivienda
+2025,Registro,Hector Figueroa,Masculino,WhatsApp,La Cisterna,Region Metropolitana,976525749,SR,Vivienda
+2025,No Contratado,Wilson Trigo,Masculino,Telefono,Recoleta,Region Metropolitana,974971123,SR,Vivienda
+2025,Presupuestado,Erick Fariña,Masculino,Formulario,Huechuraba,Region Metropolitana,935889819,erick.rodrigo@emovis.com,Vivienda
+2025,No Contratado,Lina Martinez,Femenino,Telefono,Maipu,Region Metropolitana,993951630,SR,Vivienda
+2025,No Contratado,Carolina Veliz,Femenino,Formulario,Colina,Region Metropolitana,922251577,vcaryto969@gmail.com,Comercio
+2025,No Contratado,Carla Ramis,Femenino,Formulario,Quinta Normal,Region Metropolitana,990385676,ramiscarla72@gmail.com,Comercio
+2025,No Contratado,Manuel Prado Garcia,Masculino,Telefono,Graneros,Region del Libertador Bernardo O'Higgins,975626622,SR,Por Definir
+2025,No Contratado,Franklin Ortega,Masculino,Telefono,Recoleta,Region Metropolitana,954752566,SR,Comercio
+2025,No Contratado,Roberta Coyo,Masculino,Formulario,Calama,Region de Antofagasta,962578613,Coyoroberta018@gmail.com,Por Definir
+2025,No Contratado,Elizabeth Wilkinson-Smith,Femenino,Formulario,SR,Sin Informacion,983104971,ewsmith21@hotmail.com,Por Definir
+"2025,No Contratado,Maximiliano Ortega,Masculino,Formulario,Santiago,Region Metropolitana,963946068,""max.ortega88@gmail.com"
+",Comercio
+2025,Registro,Miguel Gutierrez,Masculino,Formulario,Pudahuel,Region Metropolitana,977763692,gutierrezmiguel@live.cl,Vivienda
+2025,No Contratado,Jaime Cortes,Masculino,Formulario,SR,Sin Informacion,994891076,cortesgjaime@gmail.com,Por Definir
+2025,Registro,Claudio Brito,Masculino,Formulario,La Florida,Region Metropolitana,983367286,claudiobritoc@outlook.com,Vivienda
+2025,No Contratado,Jaime Cortes,Masculino,Telefono,Nunoa,Region Metropolitana,994891076,SR,Comercio
+2025,Registro,Jovita Rivas,Femenino,Formulario,San Bernardo,Region Metropolitana,957380422,mediterraneo1518@gmail.com,Vivienda
+2025,Registro,Oscar Encina,Masculino,Formulario,Colina,Region Metropolitana,997998969,oscar_encina@hotmail.com,Por Definir
+2025,No Contratado,Verónica Figueroa,Femenino,Formulario,Vallenar,Region de Atacama,954147012,verofizu@live.cl,Vivienda
+2025,Registro,Daniela Romo,Femenino,Telefono,Macul,Region Metropolitana,931383928,SR,Vivienda
+2025,No Contratado,Cristian Pizarro,Masculino,Formulario,Providencia,Region Metropolitana,988031534,Cristian702@gmail.com,Vivienda
+2025,Presupuestado,Felipe Parada,Masculino,Embajador,Arica,Region Arica y Parinacota,,SR,Vivienda
+2025,Registro,Luis Valdes,Masculino,Formulario,SR,Sin Informacion,984793474,luis.valdes@takraf.com,Vivienda
+2025,Registro,Carolina Paez,Femenino,Formulario,SR,Sin Informacion,998516419,abascar_17@hotmail.cl,Vivienda
+2025,Presupuestado,Mariana,Femenino,Formulario,Rancagua,Region del Libertador Bernardo O'Higgins,985308866,marianaloretopr@gmail.com,Comercio
+2025,No Contratado,Cecilia González,Femenino,Formulario,San Miguel,Region Metropolitana,990961321,cecigonhe@gmail.com,Vivienda
+2025,Registro,Nury Ibarra,Femenino,WhatsApp,San Vicente,Region del Libertador Bernardo O'Higgins,987381522,SR,Vivienda
+2025,Registro,Diana Carola Moreno,Femenino,Formulario,SR,Sin Informacion,935498893,dianamoreno0525@gmail.com,Comercio
+2025,No Contratado,Diana Moreno,Femenino,WhatsApp,Providencia,Region Metropolitana,935798893,SR,Comercio
+2025,Registro,Doris Espinoza,Femenino,Telefono,Pudahuel,Region Metropolitana,986667793,SR,Vivienda
+2025,No Contratado,Jose Mejias,Masculino,WhatsApp,Santiago,Region Metropolitana,993341693,SR,Comercio
+2025,No Contratado,Mario Fuenzalida,Masculino,Telefono,Santiago,Region Metropolitana,985008391,SR,Vivienda
+2025,Registro,Patricio Rabba,Masculino,Formulario,Recoleta,Region Metropolitana,999175203,patricio.rabba@gmail.com,Vivienda
+2025,No Contratado,Nadia Diaz,Femenino,Formulario,SR,Sin Informacion,3865554272,nadiadiaz378@gmail.com,Comercio
+2025,Registro,Sandro Castañeda,Masculino,Formulario,Conchali,Region Metropolitana,964148576,castanedasandro72@gmail.com,Comercio
+2025,Registro,Hector Mancilla,Masculino,Formulario,Punta Arenas,Region de Magallanes,995994332,tito.m2250@gmail.com,Vivienda
+2025,Registro,Scarlett Araneda,Femenino,Formulario,Codegua,Region del Libertador Bernardo O'Higgins,977524984,scarlettaraneda50@gmail.com,Vivienda
+2025,No Contratado,Frncisco Ruiz-Tagle,Masculino,Formulario,SR,Sin Informacion,996897692,dancafrt@GMAIL.COM,Por Definir
+2025,No Contratado,Jorge Pablo Galvez,Masculino,Formulario,SR,Sin Informacion,951272283,jorgepablo.galvez@gmail.com,Comercio
+2025,Registro,Hernán Rea,Masculino,Formulario,SR,Sin Informacion,993436103,hrea@dulchi.cl,Comercio
+2025,No Contratado,Tatiana Arbelaez,Femenino,WhatsApp,Cerro Navia,Region Metropolitana,966677880,SR,Vivienda
+2025,No Contratado,Sergio Toro,Masculino,Formulario,Talagante,Region Metropolitana,933359017,SR,Por Definir
+2025,Registro,Nataly Jara,Femenino,Formulario,Buin,Region Metropolitana,940018198,natalyjara@gmail.com,Comercio
+2025,Registro,Karina Saavedra,Femenino,Telefono,Maipu,Region Metropolitana,999205082,SR,Vivienda
+2025,Registro,Carolina Canoa,Femenino,Telefono,Puente alto,Region Metropolitana,994434952,SR,Vivienda
+2025,No Contratado,Rodrigo Tapia Bañares,Masculino,Formulario,Penalolen,Region Metropolitana,981376789,RTAPIAB@GMAIL.COM,Comercio
+2025,Registro,Hilda Navarro,Femenino,Formulario,La Pintana,Region Metropolitana,949525718,SR,Vivienda
+2025,Registro,Danixa Gutierrez,Femenino,Formulario,Santiago,Region Metropolitana,998868383,danixagneyra@gmail.com,Comercio
+2025,Registro,Pablo Verdugo,Masculino,Formulario,Huechuraba,Region Metropolitana,939024205,pablo36verdugo@hotmail.com,Comercio
+2025,Registro,Yamile Ruiz,Femenino,Formulario,Quintero,Region Valparaiso,962076630,yruiz@mgcertifica.cl,Vivienda
+2025,Registro,Rodrigo Araya,Masculino,Telefono,Recoleta,Region Metropolitana,992366252,SR,Vivienda
+2025,No Contratado,Pedro Melinado,Masculino,WhatsApp,Maipu,Region Metropolitana,956149106,SR,Vivienda
+2025,No Contratado,Claudia Mardones,Femenino,Formulario,La Florida,Region Metropolitana,995197849,claudia.mardones.m@gmail.com,Vivienda
+2025,Registro,María Luisa Erices,Femenino,Formulario,Lampa,Region Metropolitana,963042197,marialuisa.erices@fashionspark.com,Vivienda
+2025,No Contratado,Sebastian Atal,Masculino,WhatsApp,Las Condes,Region Metropolitana,944693604,SR,Comercio
+2025,Registro,José Emilio Guzmán C,Masculino,Formulario,Valparaiso,Region Valparaiso,968002013,jeguzmancoach@gmail.com,Vivienda
+2025,Registro,Jaime Ernesto Gómez Atria,Masculino,Formulario,SR,Sin Informacion,994608361,jegatria@gmail.com,Vivienda
+2025,Registro,Paola Gonzalez,Femenino,Formulario,SR,Sin Informacion,964971577,paogonzalezzamora1971@gmail.com,Vivienda
+2025,No Contratado,Jose,Masculino,Formulario,El Bosque,Region Metropolitana,996122947,tvsatelitalfta53@gmail.com,Vivienda
+2025,Presupuestado,Alvaro Cortes,Masculino,WhatsApp,Puente alto,Region Metropolitana,991903060,SR,Vivienda
+2025,Registro,Rodrigo Calabrano,Masculino,WhatsApp,San Bernardo,Region Metropolitana,977977235,SR,Comercio
+2025,Registro,Maria Eliana Squicciarini,Femenino,WhatsApp,Santiago,Region Metropolitana,999919263,SR,Vivienda
+2025,Registro,Jonathan Mattisini,Masculino,WhatsApp,Providencia,Region Metropolitana,978483450,SR,Vivienda
+2025,No Contratado,Juan Ramos,Masculino,Formulario,Puente alto,Region Metropolitana,993777385,DOMINGO.RAMOS6@HOTMAIL.COM,Vivienda
+2025,Registro,Esteban Sanchez,Masculino,Formulario,Lo Prado,Region Metropolitana,957775155,estebansaram@gmail.com,Vivienda
+2025,Registro,Vanessa Silvestre,Femenino,Formulario,Nunoa,Region Metropolitana,994306167,vanessa.silvestre@aystecnologia.cl,Comercio
+2025,Registro,Lorraine Segeur,Femenino,Formulario,Providencia,Region Metropolitana,998760314,l.segeur@live.cl,Vivienda
+2025,Registro,Monica Vent,Femenino,Formulario,Santiago,Region Metropolitana,999727525,mventg@gmail.com,Vivienda
+2025,Presupuestado,Juan Loyola,Masculino,WhatsApp,La Reina ,Region Metropolitana,931177943,SR,Vivienda
+2025,Presupuestado,Nelson Barrera R.,Masculino,Formulario,Curacavi,Region Metropolitana,989011715,nelsonabr@yahoo.com,Comercio
+2025,Registro,Jorge Salas,Masculino,WhatsApp,Penalolen,Region Metropolitana,941167068,SR,Comercio
+2025,Presupuestado,Marvin Antonio Dominguez Scott,Masculino,Formulario,Las Condes,Region Metropolitana,961282064,osdualdsuarezcl@gmail.com,Comercio
+2025,Registro,Maria Cristina Gonzalez,Femenino,Formulario,Rancagua,Region del Libertador Bernardo O'Higgins,998832299,SR,Comercio
+2025,No Contratado,Darwin Espinoza,Masculino,Embajador,Providencia,Region Metropolitana,967274895,SR,Comercio
+2025,Registro,Arianna Hernández,Femenino,Formulario,SR,Sin Informacion,999418183,ariannahernandez040@gmail.com,Comercio
+2025,Presupuestado,Rafael Cordero,Masculino,Formulario,Quilicura,Region Metropolitana,942182719,rcordero@constructoraerrecl.cl,Vivienda
+2025,Registro,Maria Veronica Rauce,Femenino,Telefono,Recoleta,Region Metropolitana,986945321,SR,Comercio
+2025,Registro,Mariana Schmidt,Femenino,Formulario,Recoleta,Region Metropolitana,968474265,Mschmidtastaburuaga@gmail.com,Comercio
+2025,No Contratado,José Rojas,Masculino,Formulario,Los Andes,Region Valparaiso,973788069,jrojast60@gmail.com,Vivienda
+2025,Registro,Victor Veas Seguel,Masculino,Formulario,SR,Sin Informacion,991749270,victorveas@lancopaints.com,Vivienda
+2025,Registro,Jenny Diaz,Femenino,Formulario,SR,Sin Informacion,966597460,jennydiazpinto77@gmail.com,Vivienda
+2025,Presupuestado,Felipe Moreno,Masculino,Formulario,Las Condes,Region Metropolitana,975776568,arqfmoreno1@gmail.com,Vivienda
+2025,Registro,Sebastian Velozo,Masculino,Formulario,SR,Sin Informacion,956332093,velozosebastian57@gmail.com,Vivienda
+2025,Registro,Marcelo Rabbá Apara,Masculino,Formulario,Providencia,Region Metropolitana,998202340,mrabba@circulo.cl,Comercio
+2025,Registro,Claudia Andrea Corenjo Ginestar,Femenino,Formulario,Lago Rapel,Region del Libertador Bernardo O'Higgins,961915935,claudia.taller.cocina@gmail.com,Vivienda
+2025,Registro,Andres Astudillo,Masculino,Telefono,Olmue,Region Valparaiso,985228517,SR,Vivienda
+2025,Registro,Cristian Carrasco,Masculino,Formulario,Providencia,Region Metropolitana,971396515,ccarrasco@icsaotec.cl,Vivienda
+2025,Registro,Dan Jana ,Femenino,Telefono,Providencia,Region Metropolitana,944163518,SR,Vivienda
+2025,Registro,Felipe Cifuentes,Masculino,Formulario,Santiago,Region Metropolitana,956079378,fcifuentesq@me.com,Vivienda
+2025,Registro,Francisca Rojas,Femenino,Formulario,Providencia,Region Metropolitana,985965560,fran.rojas.toledo@gmail.com,Comercio
+2025,Registro,Georgina Fuentealba,Femenino,Formulario,Valparaiso,Region Valparaiso,939650842,georginaherrera204@gmail.com,Comercio
+2025,Registro,Miguel Blanco,Masculino,Formulario,SR,Sin Informacion,996749796,blancopulgar@gmail.com,Vivienda
+2025,Registro,Estefany,Femenino,Formulario,SR,Sin Informacion,961120935,ignaciabelen25@gmail.com,Vivienda
+2025,Registro,Eduardo Jerez,Masculino,Formulario,Santiago,Region Metropolitana,952180896,ejerez.s@gmail.com,Comercio
+"

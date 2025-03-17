@@ -1,0 +1,29 @@
+Informe de dasboard(tablero) para mostrar 4 tipos de graficos 
+
+Que quiero mostrar en mis Graficos
+1.- Tipos de clientes (% o cantidades) ejemplo 
+
+1.- Tipos de clientes --> Grafico de anillos
+	# Contar por nombre los clientes según al grupo que pertenecen por destino
+
+2.- Cuantos clientes se dieron de alta por año -->Grafico de barras
+	#clientes nuevos por año
+	#Año de registro por nombres
+	#Quiero ver la cantidad de clientes nuevos divididos por cada año 
+	#Quiero saber en que año eh tenido mas clientes nuevos
+	#Recuento de nombres por año de registro
+
+3.- Genero de mis clientes (edad)--> Grafico de barras apiladas
+	#Agregar columna genero y nombres 
+	#Quiero saber que genero son mis clientes
+
+
+4.- Clientes por Región o ciudad -->Grafico áreas apiladas
+	#Quiero saber cuantos clientes tengo por ciudad
+	# Ciudades por nombre de cada cliente 
+
+tipos de graficos 
+- Anillos cuando tenemos por ej 3 tipos de datos frecuencia, regular,
+- Barras cuando tengo muchos datos por años
+
+- Agregar una tabla Resumen 
